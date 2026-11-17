@@ -1,0 +1,5 @@
+langgraph>=1,<2
+streamlit>=1.45,<2
+plotly>=6,<7
+sqlglot>=27,<29
+pandas>=2,<4

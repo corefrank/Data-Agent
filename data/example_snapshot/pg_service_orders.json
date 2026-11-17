@@ -1,0 +1,5402 @@
+[
+  {
+    "order_id": 1,
+    "vehicle_id": 1,
+    "service_date": "2025-01-02",
+    "service_type": "maintenance",
+    "status": "completed",
+    "cost": "95.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 2,
+    "vehicle_id": 2,
+    "service_date": "2025-01-03",
+    "service_type": "inspection",
+    "status": "completed",
+    "cost": "110.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 3,
+    "vehicle_id": 3,
+    "service_date": "2025-01-04",
+    "service_type": "repair",
+    "status": "completed",
+    "cost": "125.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 4,
+    "vehicle_id": 4,
+    "service_date": "2025-01-05",
+    "service_type": "maintenance",
+    "status": "completed",
+    "cost": "140.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 5,
+    "vehicle_id": 5,
+    "service_date": "2025-01-06",
+    "service_type": "inspection",
+    "status": "open",
+    "cost": "155.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 6,
+    "vehicle_id": 6,
+    "service_date": "2025-01-07",
+    "service_type": "repair",
+    "status": "completed",
+    "cost": "170.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 7,
+    "vehicle_id": 7,
+    "service_date": "2025-01-08",
+    "service_type": "maintenance",
+    "status": "completed",
+    "cost": "185.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 8,
+    "vehicle_id": 8,
+    "service_date": "2025-01-09",
+    "service_type": "inspection",
+    "status": "completed",
+    "cost": "200.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 9,
+    "vehicle_id": 9,
+    "service_date": "2025-01-10",
+    "service_type": "repair",
+    "status": "completed",
+    "cost": "215.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 10,
+    "vehicle_id": 10,
+    "service_date": "2025-01-11",
+    "service_type": "maintenance",
+    "status": "open",
+    "cost": "230.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 11,
+    "vehicle_id": 11,
+    "service_date": "2025-01-12",
+    "service_type": "inspection",
+    "status": "completed",
+    "cost": "245.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 12,
+    "vehicle_id": 12,
+    "service_date": "2025-01-13",
+    "service_type": "repair",
+    "status": "completed",
+    "cost": "260.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 13,
+    "vehicle_id": 13,
+    "service_date": "2025-01-14",
+    "service_type": "maintenance",
+    "status": "completed",
+    "cost": "275.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 14,
+    "vehicle_id": 14,
+    "service_date": "2025-01-15",
+    "service_type": "inspection",
+    "status": "completed",
+    "cost": "290.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 15,
+    "vehicle_id": 15,
+    "service_date": "2025-01-16",
+    "service_type": "repair",
+    "status": "open",
+    "cost": "305.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 16,
+    "vehicle_id": 16,
+    "service_date": "2025-01-17",
+    "service_type": "maintenance",
+    "status": "completed",
+    "cost": "320.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 17,
+    "vehicle_id": 17,
+    "service_date": "2025-01-18",
+    "service_type": "inspection",
+    "status": "completed",
+    "cost": "335.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 18,
+    "vehicle_id": 18,
+    "service_date": "2025-01-19",
+    "service_type": "repair",
+    "status": "completed",
+    "cost": "350.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 19,
+    "vehicle_id": 19,
+    "service_date": "2025-01-20",
+    "service_type": "maintenance",
+    "status": "completed",
+    "cost": "365.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 20,
+    "vehicle_id": 20,
+    "service_date": "2025-01-21",
+    "service_type": "inspection",
+    "status": "open",
+    "cost": "380.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 21,
+    "vehicle_id": 21,
+    "service_date": "2025-01-22",
+    "service_type": "repair",
+    "status": "completed",
+    "cost": "395.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 22,
+    "vehicle_id": 22,
+    "service_date": "2025-01-23",
+    "service_type": "maintenance",
+    "status": "completed",
+    "cost": "410.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 23,
+    "vehicle_id": 23,
+    "service_date": "2025-01-24",
+    "service_type": "inspection",
+    "status": "completed",
+    "cost": "425.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 24,
+    "vehicle_id": 24,
+    "service_date": "2025-01-25",
+    "service_type": "repair",
+    "status": "completed",
+    "cost": "440.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 25,
+    "vehicle_id": 25,
+    "service_date": "2025-01-26",
+    "service_type": "maintenance",
+    "status": "open",
+    "cost": "455.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 26,
+    "vehicle_id": 26,
+    "service_date": "2025-01-27",
+    "service_type": "inspection",
+    "status": "completed",
+    "cost": "470.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 27,
+    "vehicle_id": 27,
+    "service_date": "2025-01-28",
+    "service_type": "repair",
+    "status": "completed",
+    "cost": "485.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 28,
+    "vehicle_id": 28,
+    "service_date": "2025-01-29",
+    "service_type": "maintenance",
+    "status": "completed",
+    "cost": "500.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 29,
+    "vehicle_id": 29,
+    "service_date": "2025-01-30",
+    "service_type": "inspection",
+    "status": "completed",
+    "cost": "515.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 30,
+    "vehicle_id": 30,
+    "service_date": "2025-01-31",
+    "service_type": "repair",
+    "status": "open",
+    "cost": "530.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 31,
+    "vehicle_id": 31,
+    "service_date": "2025-02-01",
+    "service_type": "maintenance",
+    "status": "completed",
+    "cost": "545.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 32,
+    "vehicle_id": 32,
+    "service_date": "2025-02-02",
+    "service_type": "inspection",
+    "status": "completed",
+    "cost": "560.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 33,
+    "vehicle_id": 33,
+    "service_date": "2025-02-03",
+    "service_type": "repair",
+    "status": "completed",
+    "cost": "575.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 34,
+    "vehicle_id": 34,
+    "service_date": "2025-02-04",
+    "service_type": "maintenance",
+    "status": "completed",
+    "cost": "590.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 35,
+    "vehicle_id": 35,
+    "service_date": "2025-02-05",
+    "service_type": "inspection",
+    "status": "open",
+    "cost": "605.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 36,
+    "vehicle_id": 36,
+    "service_date": "2025-02-06",
+    "service_type": "repair",
+    "status": "completed",
+    "cost": "620.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 37,
+    "vehicle_id": 37,
+    "service_date": "2025-02-07",
+    "service_type": "maintenance",
+    "status": "completed",
+    "cost": "635.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 38,
+    "vehicle_id": 38,
+    "service_date": "2025-02-08",
+    "service_type": "inspection",
+    "status": "completed",
+    "cost": "650.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 39,
+    "vehicle_id": 39,
+    "service_date": "2025-02-09",
+    "service_type": "repair",
+    "status": "completed",
+    "cost": "665.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 40,
+    "vehicle_id": 40,
+    "service_date": "2025-02-10",
+    "service_type": "maintenance",
+    "status": "open",
+    "cost": "80.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 41,
+    "vehicle_id": 41,
+    "service_date": "2025-02-11",
+    "service_type": "inspection",
+    "status": "completed",
+    "cost": "95.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 42,
+    "vehicle_id": 42,
+    "service_date": "2025-02-12",
+    "service_type": "repair",
+    "status": "completed",
+    "cost": "110.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 43,
+    "vehicle_id": 43,
+    "service_date": "2025-02-13",
+    "service_type": "maintenance",
+    "status": "completed",
+    "cost": "125.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 44,
+    "vehicle_id": 44,
+    "service_date": "2025-02-14",
+    "service_type": "inspection",
+    "status": "completed",
+    "cost": "140.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 45,
+    "vehicle_id": 45,
+    "service_date": "2025-02-15",
+    "service_type": "repair",
+    "status": "open",
+    "cost": "155.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 46,
+    "vehicle_id": 46,
+    "service_date": "2025-02-16",
+    "service_type": "maintenance",
+    "status": "completed",
+    "cost": "170.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 47,
+    "vehicle_id": 47,
+    "service_date": "2025-02-17",
+    "service_type": "inspection",
+    "status": "completed",
+    "cost": "185.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 48,
+    "vehicle_id": 48,
+    "service_date": "2025-02-18",
+    "service_type": "repair",
+    "status": "completed",
+    "cost": "200.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 49,
+    "vehicle_id": 49,
+    "service_date": "2025-02-19",
+    "service_type": "maintenance",
+    "status": "completed",
+    "cost": "215.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 50,
+    "vehicle_id": 50,
+    "service_date": "2025-02-20",
+    "service_type": "inspection",
+    "status": "open",
+    "cost": "230.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 51,
+    "vehicle_id": 51,
+    "service_date": "2025-02-21",
+    "service_type": "repair",
+    "status": "completed",
+    "cost": "245.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 52,
+    "vehicle_id": 52,
+    "service_date": "2025-02-22",
+    "service_type": "maintenance",
+    "status": "completed",
+    "cost": "260.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 53,
+    "vehicle_id": 53,
+    "service_date": "2025-02-23",
+    "service_type": "inspection",
+    "status": "completed",
+    "cost": "275.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 54,
+    "vehicle_id": 54,
+    "service_date": "2025-02-24",
+    "service_type": "repair",
+    "status": "completed",
+    "cost": "290.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 55,
+    "vehicle_id": 55,
+    "service_date": "2025-02-25",
+    "service_type": "maintenance",
+    "status": "open",
+    "cost": "305.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 56,
+    "vehicle_id": 56,
+    "service_date": "2025-02-26",
+    "service_type": "inspection",
+    "status": "completed",
+    "cost": "320.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 57,
+    "vehicle_id": 57,
+    "service_date": "2025-02-27",
+    "service_type": "repair",
+    "status": "completed",
+    "cost": "335.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 58,
+    "vehicle_id": 58,
+    "service_date": "2025-02-28",
+    "service_type": "maintenance",
+    "status": "completed",
+    "cost": "350.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 59,
+    "vehicle_id": 59,
+    "service_date": "2025-03-01",
+    "service_type": "inspection",
+    "status": "completed",
+    "cost": "365.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 60,
+    "vehicle_id": 60,
+    "service_date": "2025-03-02",
+    "service_type": "repair",
+    "status": "open",
+    "cost": "380.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 61,
+    "vehicle_id": 61,
+    "service_date": "2025-03-03",
+    "service_type": "maintenance",
+    "status": "completed",
+    "cost": "395.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 62,
+    "vehicle_id": 62,
+    "service_date": "2025-03-04",
+    "service_type": "inspection",
+    "status": "completed",
+    "cost": "410.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 63,
+    "vehicle_id": 63,
+    "service_date": "2025-03-05",
+    "service_type": "repair",
+    "status": "completed",
+    "cost": "425.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 64,
+    "vehicle_id": 64,
+    "service_date": "2025-03-06",
+    "service_type": "maintenance",
+    "status": "completed",
+    "cost": "440.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 65,
+    "vehicle_id": 65,
+    "service_date": "2025-03-07",
+    "service_type": "inspection",
+    "status": "open",
+    "cost": "455.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 66,
+    "vehicle_id": 66,
+    "service_date": "2025-03-08",
+    "service_type": "repair",
+    "status": "completed",
+    "cost": "470.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 67,
+    "vehicle_id": 67,
+    "service_date": "2025-03-09",
+    "service_type": "maintenance",
+    "status": "completed",
+    "cost": "485.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 68,
+    "vehicle_id": 68,
+    "service_date": "2025-03-10",
+    "service_type": "inspection",
+    "status": "completed",
+    "cost": "500.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 69,
+    "vehicle_id": 69,
+    "service_date": "2025-03-11",
+    "service_type": "repair",
+    "status": "completed",
+    "cost": "515.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 70,
+    "vehicle_id": 70,
+    "service_date": "2025-03-12",
+    "service_type": "maintenance",
+    "status": "open",
+    "cost": "530.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 71,
+    "vehicle_id": 71,
+    "service_date": "2025-03-13",
+    "service_type": "inspection",
+    "status": "completed",
+    "cost": "545.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 72,
+    "vehicle_id": 72,
+    "service_date": "2025-03-14",
+    "service_type": "repair",
+    "status": "completed",
+    "cost": "560.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 73,
+    "vehicle_id": 73,
+    "service_date": "2025-03-15",
+    "service_type": "maintenance",
+    "status": "completed",
+    "cost": "575.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 74,
+    "vehicle_id": 74,
+    "service_date": "2025-03-16",
+    "service_type": "inspection",
+    "status": "completed",
+    "cost": "590.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 75,
+    "vehicle_id": 75,
+    "service_date": "2025-03-17",
+    "service_type": "repair",
+    "status": "open",
+    "cost": "605.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 76,
+    "vehicle_id": 76,
+    "service_date": "2025-03-18",
+    "service_type": "maintenance",
+    "status": "completed",
+    "cost": "620.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 77,
+    "vehicle_id": 77,
+    "service_date": "2025-03-19",
+    "service_type": "inspection",
+    "status": "completed",
+    "cost": "635.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 78,
+    "vehicle_id": 78,
+    "service_date": "2025-03-20",
+    "service_type": "repair",
+    "status": "completed",
+    "cost": "650.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 79,
+    "vehicle_id": 79,
+    "service_date": "2025-03-21",
+    "service_type": "maintenance",
+    "status": "completed",
+    "cost": "665.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 80,
+    "vehicle_id": 80,
+    "service_date": "2025-03-22",
+    "service_type": "inspection",
+    "status": "open",
+    "cost": "80.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 81,
+    "vehicle_id": 81,
+    "service_date": "2025-03-23",
+    "service_type": "repair",
+    "status": "completed",
+    "cost": "95.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 82,
+    "vehicle_id": 82,
+    "service_date": "2025-03-24",
+    "service_type": "maintenance",
+    "status": "completed",
+    "cost": "110.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 83,
+    "vehicle_id": 83,
+    "service_date": "2025-03-25",
+    "service_type": "inspection",
+    "status": "completed",
+    "cost": "125.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 84,
+    "vehicle_id": 84,
+    "service_date": "2025-03-26",
+    "service_type": "repair",
+    "status": "completed",
+    "cost": "140.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 85,
+    "vehicle_id": 85,
+    "service_date": "2025-03-27",
+    "service_type": "maintenance",
+    "status": "open",
+    "cost": "155.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 86,
+    "vehicle_id": 86,
+    "service_date": "2025-03-28",
+    "service_type": "inspection",
+    "status": "completed",
+    "cost": "170.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 87,
+    "vehicle_id": 87,
+    "service_date": "2025-03-29",
+    "service_type": "repair",
+    "status": "completed",
+    "cost": "185.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 88,
+    "vehicle_id": 88,
+    "service_date": "2025-03-30",
+    "service_type": "maintenance",
+    "status": "completed",
+    "cost": "200.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 89,
+    "vehicle_id": 89,
+    "service_date": "2025-03-31",
+    "service_type": "inspection",
+    "status": "completed",
+    "cost": "215.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 90,
+    "vehicle_id": 90,
+    "service_date": "2025-04-01",
+    "service_type": "repair",
+    "status": "open",
+    "cost": "230.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 91,
+    "vehicle_id": 91,
+    "service_date": "2025-04-02",
+    "service_type": "maintenance",
+    "status": "completed",
+    "cost": "245.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 92,
+    "vehicle_id": 92,
+    "service_date": "2025-04-03",
+    "service_type": "inspection",
+    "status": "completed",
+    "cost": "260.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 93,
+    "vehicle_id": 93,
+    "service_date": "2025-04-04",
+    "service_type": "repair",
+    "status": "completed",
+    "cost": "275.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 94,
+    "vehicle_id": 94,
+    "service_date": "2025-04-05",
+    "service_type": "maintenance",
+    "status": "completed",
+    "cost": "290.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 95,
+    "vehicle_id": 95,
+    "service_date": "2025-04-06",
+    "service_type": "inspection",
+    "status": "open",
+    "cost": "305.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 96,
+    "vehicle_id": 96,
+    "service_date": "2025-04-07",
+    "service_type": "repair",
+    "status": "completed",
+    "cost": "320.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 97,
+    "vehicle_id": 97,
+    "service_date": "2025-04-08",
+    "service_type": "maintenance",
+    "status": "completed",
+    "cost": "335.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 98,
+    "vehicle_id": 98,
+    "service_date": "2025-04-09",
+    "service_type": "inspection",
+    "status": "completed",
+    "cost": "350.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 99,
+    "vehicle_id": 99,
+    "service_date": "2025-04-10",
+    "service_type": "repair",
+    "status": "completed",
+    "cost": "365.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 100,
+    "vehicle_id": 100,
+    "service_date": "2025-04-11",
+    "service_type": "maintenance",
+    "status": "open",
+    "cost": "380.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 101,
+    "vehicle_id": 101,
+    "service_date": "2025-04-12",
+    "service_type": "inspection",
+    "status": "completed",
+    "cost": "395.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 102,
+    "vehicle_id": 102,
+    "service_date": "2025-04-13",
+    "service_type": "repair",
+    "status": "completed",
+    "cost": "410.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 103,
+    "vehicle_id": 103,
+    "service_date": "2025-04-14",
+    "service_type": "maintenance",
+    "status": "completed",
+    "cost": "425.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 104,
+    "vehicle_id": 104,
+    "service_date": "2025-04-15",
+    "service_type": "inspection",
+    "status": "completed",
+    "cost": "440.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 105,
+    "vehicle_id": 105,
+    "service_date": "2025-04-16",
+    "service_type": "repair",
+    "status": "open",
+    "cost": "455.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 106,
+    "vehicle_id": 106,
+    "service_date": "2025-04-17",
+    "service_type": "maintenance",
+    "status": "completed",
+    "cost": "470.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 107,
+    "vehicle_id": 107,
+    "service_date": "2025-04-18",
+    "service_type": "inspection",
+    "status": "completed",
+    "cost": "485.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 108,
+    "vehicle_id": 108,
+    "service_date": "2025-04-19",
+    "service_type": "repair",
+    "status": "completed",
+    "cost": "500.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 109,
+    "vehicle_id": 109,
+    "service_date": "2025-04-20",
+    "service_type": "maintenance",
+    "status": "completed",
+    "cost": "515.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 110,
+    "vehicle_id": 110,
+    "service_date": "2025-04-21",
+    "service_type": "inspection",
+    "status": "open",
+    "cost": "530.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 111,
+    "vehicle_id": 111,
+    "service_date": "2025-04-22",
+    "service_type": "repair",
+    "status": "completed",
+    "cost": "545.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 112,
+    "vehicle_id": 112,
+    "service_date": "2025-04-23",
+    "service_type": "maintenance",
+    "status": "completed",
+    "cost": "560.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 113,
+    "vehicle_id": 113,
+    "service_date": "2025-04-24",
+    "service_type": "inspection",
+    "status": "completed",
+    "cost": "575.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 114,
+    "vehicle_id": 114,
+    "service_date": "2025-04-25",
+    "service_type": "repair",
+    "status": "completed",
+    "cost": "590.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 115,
+    "vehicle_id": 115,
+    "service_date": "2025-04-26",
+    "service_type": "maintenance",
+    "status": "open",
+    "cost": "605.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 116,
+    "vehicle_id": 116,
+    "service_date": "2025-04-27",
+    "service_type": "inspection",
+    "status": "completed",
+    "cost": "620.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 117,
+    "vehicle_id": 117,
+    "service_date": "2025-04-28",
+    "service_type": "repair",
+    "status": "completed",
+    "cost": "635.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 118,
+    "vehicle_id": 118,
+    "service_date": "2025-04-29",
+    "service_type": "maintenance",
+    "status": "completed",
+    "cost": "650.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 119,
+    "vehicle_id": 119,
+    "service_date": "2025-04-30",
+    "service_type": "inspection",
+    "status": "completed",
+    "cost": "665.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 120,
+    "vehicle_id": 120,
+    "service_date": "2025-05-01",
+    "service_type": "repair",
+    "status": "open",
+    "cost": "80.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 121,
+    "vehicle_id": 121,
+    "service_date": "2025-05-02",
+    "service_type": "maintenance",
+    "status": "completed",
+    "cost": "95.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 122,
+    "vehicle_id": 122,
+    "service_date": "2025-05-03",
+    "service_type": "inspection",
+    "status": "completed",
+    "cost": "110.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 123,
+    "vehicle_id": 123,
+    "service_date": "2025-05-04",
+    "service_type": "repair",
+    "status": "completed",
+    "cost": "125.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 124,
+    "vehicle_id": 124,
+    "service_date": "2025-05-05",
+    "service_type": "maintenance",
+    "status": "completed",
+    "cost": "140.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 125,
+    "vehicle_id": 125,
+    "service_date": "2025-05-06",
+    "service_type": "inspection",
+    "status": "open",
+    "cost": "155.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 126,
+    "vehicle_id": 126,
+    "service_date": "2025-05-07",
+    "service_type": "repair",
+    "status": "completed",
+    "cost": "170.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 127,
+    "vehicle_id": 127,
+    "service_date": "2025-05-08",
+    "service_type": "maintenance",
+    "status": "completed",
+    "cost": "185.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 128,
+    "vehicle_id": 128,
+    "service_date": "2025-05-09",
+    "service_type": "inspection",
+    "status": "completed",
+    "cost": "200.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 129,
+    "vehicle_id": 129,
+    "service_date": "2025-05-10",
+    "service_type": "repair",
+    "status": "completed",
+    "cost": "215.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 130,
+    "vehicle_id": 130,
+    "service_date": "2025-05-11",
+    "service_type": "maintenance",
+    "status": "open",
+    "cost": "230.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 131,
+    "vehicle_id": 131,
+    "service_date": "2025-05-12",
+    "service_type": "inspection",
+    "status": "completed",
+    "cost": "245.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 132,
+    "vehicle_id": 132,
+    "service_date": "2025-05-13",
+    "service_type": "repair",
+    "status": "completed",
+    "cost": "260.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 133,
+    "vehicle_id": 133,
+    "service_date": "2025-05-14",
+    "service_type": "maintenance",
+    "status": "completed",
+    "cost": "275.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 134,
+    "vehicle_id": 134,
+    "service_date": "2025-05-15",
+    "service_type": "inspection",
+    "status": "completed",
+    "cost": "290.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 135,
+    "vehicle_id": 135,
+    "service_date": "2025-05-16",
+    "service_type": "repair",
+    "status": "open",
+    "cost": "305.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 136,
+    "vehicle_id": 136,
+    "service_date": "2025-05-17",
+    "service_type": "maintenance",
+    "status": "completed",
+    "cost": "320.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 137,
+    "vehicle_id": 137,
+    "service_date": "2025-05-18",
+    "service_type": "inspection",
+    "status": "completed",
+    "cost": "335.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 138,
+    "vehicle_id": 138,
+    "service_date": "2025-05-19",
+    "service_type": "repair",
+    "status": "completed",
+    "cost": "350.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 139,
+    "vehicle_id": 139,
+    "service_date": "2025-05-20",
+    "service_type": "maintenance",
+    "status": "completed",
+    "cost": "365.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 140,
+    "vehicle_id": 140,
+    "service_date": "2025-05-21",
+    "service_type": "inspection",
+    "status": "open",
+    "cost": "380.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 141,
+    "vehicle_id": 141,
+    "service_date": "2025-05-22",
+    "service_type": "repair",
+    "status": "completed",
+    "cost": "395.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 142,
+    "vehicle_id": 142,
+    "service_date": "2025-05-23",
+    "service_type": "maintenance",
+    "status": "completed",
+    "cost": "410.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 143,
+    "vehicle_id": 143,
+    "service_date": "2025-05-24",
+    "service_type": "inspection",
+    "status": "completed",
+    "cost": "425.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 144,
+    "vehicle_id": 144,
+    "service_date": "2025-05-25",
+    "service_type": "repair",
+    "status": "completed",
+    "cost": "440.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 145,
+    "vehicle_id": 145,
+    "service_date": "2025-05-26",
+    "service_type": "maintenance",
+    "status": "open",
+    "cost": "455.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 146,
+    "vehicle_id": 146,
+    "service_date": "2025-05-27",
+    "service_type": "inspection",
+    "status": "completed",
+    "cost": "470.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 147,
+    "vehicle_id": 147,
+    "service_date": "2025-05-28",
+    "service_type": "repair",
+    "status": "completed",
+    "cost": "485.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 148,
+    "vehicle_id": 148,
+    "service_date": "2025-05-29",
+    "service_type": "maintenance",
+    "status": "completed",
+    "cost": "500.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 149,
+    "vehicle_id": 149,
+    "service_date": "2025-05-30",
+    "service_type": "inspection",
+    "status": "completed",
+    "cost": "515.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 150,
+    "vehicle_id": 150,
+    "service_date": "2025-05-31",
+    "service_type": "repair",
+    "status": "open",
+    "cost": "530.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 151,
+    "vehicle_id": 151,
+    "service_date": "2025-06-01",
+    "service_type": "maintenance",
+    "status": "completed",
+    "cost": "545.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 152,
+    "vehicle_id": 152,
+    "service_date": "2025-06-02",
+    "service_type": "inspection",
+    "status": "completed",
+    "cost": "560.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 153,
+    "vehicle_id": 153,
+    "service_date": "2025-06-03",
+    "service_type": "repair",
+    "status": "completed",
+    "cost": "575.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 154,
+    "vehicle_id": 154,
+    "service_date": "2025-06-04",
+    "service_type": "maintenance",
+    "status": "completed",
+    "cost": "590.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 155,
+    "vehicle_id": 155,
+    "service_date": "2025-06-05",
+    "service_type": "inspection",
+    "status": "open",
+    "cost": "605.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 156,
+    "vehicle_id": 156,
+    "service_date": "2025-06-06",
+    "service_type": "repair",
+    "status": "completed",
+    "cost": "620.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 157,
+    "vehicle_id": 157,
+    "service_date": "2025-06-07",
+    "service_type": "maintenance",
+    "status": "completed",
+    "cost": "635.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 158,
+    "vehicle_id": 158,
+    "service_date": "2025-06-08",
+    "service_type": "inspection",
+    "status": "completed",
+    "cost": "650.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 159,
+    "vehicle_id": 159,
+    "service_date": "2025-06-09",
+    "service_type": "repair",
+    "status": "completed",
+    "cost": "665.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 160,
+    "vehicle_id": 160,
+    "service_date": "2025-06-10",
+    "service_type": "maintenance",
+    "status": "open",
+    "cost": "80.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 161,
+    "vehicle_id": 161,
+    "service_date": "2025-06-11",
+    "service_type": "inspection",
+    "status": "completed",
+    "cost": "95.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 162,
+    "vehicle_id": 162,
+    "service_date": "2025-06-12",
+    "service_type": "repair",
+    "status": "completed",
+    "cost": "110.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 163,
+    "vehicle_id": 163,
+    "service_date": "2025-06-13",
+    "service_type": "maintenance",
+    "status": "completed",
+    "cost": "125.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 164,
+    "vehicle_id": 164,
+    "service_date": "2025-06-14",
+    "service_type": "inspection",
+    "status": "completed",
+    "cost": "140.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 165,
+    "vehicle_id": 165,
+    "service_date": "2025-06-15",
+    "service_type": "repair",
+    "status": "open",
+    "cost": "155.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 166,
+    "vehicle_id": 166,
+    "service_date": "2025-06-16",
+    "service_type": "maintenance",
+    "status": "completed",
+    "cost": "170.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 167,
+    "vehicle_id": 167,
+    "service_date": "2025-06-17",
+    "service_type": "inspection",
+    "status": "completed",
+    "cost": "185.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 168,
+    "vehicle_id": 168,
+    "service_date": "2025-06-18",
+    "service_type": "repair",
+    "status": "completed",
+    "cost": "200.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 169,
+    "vehicle_id": 169,
+    "service_date": "2025-06-19",
+    "service_type": "maintenance",
+    "status": "completed",
+    "cost": "215.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 170,
+    "vehicle_id": 170,
+    "service_date": "2025-06-20",
+    "service_type": "inspection",
+    "status": "open",
+    "cost": "230.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 171,
+    "vehicle_id": 171,
+    "service_date": "2025-06-21",
+    "service_type": "repair",
+    "status": "completed",
+    "cost": "245.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 172,
+    "vehicle_id": 172,
+    "service_date": "2025-06-22",
+    "service_type": "maintenance",
+    "status": "completed",
+    "cost": "260.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 173,
+    "vehicle_id": 173,
+    "service_date": "2025-06-23",
+    "service_type": "inspection",
+    "status": "completed",
+    "cost": "275.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 174,
+    "vehicle_id": 174,
+    "service_date": "2025-06-24",
+    "service_type": "repair",
+    "status": "completed",
+    "cost": "290.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 175,
+    "vehicle_id": 175,
+    "service_date": "2025-06-25",
+    "service_type": "maintenance",
+    "status": "open",
+    "cost": "305.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 176,
+    "vehicle_id": 176,
+    "service_date": "2025-06-26",
+    "service_type": "inspection",
+    "status": "completed",
+    "cost": "320.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 177,
+    "vehicle_id": 177,
+    "service_date": "2025-06-27",
+    "service_type": "repair",
+    "status": "completed",
+    "cost": "335.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 178,
+    "vehicle_id": 178,
+    "service_date": "2025-06-28",
+    "service_type": "maintenance",
+    "status": "completed",
+    "cost": "350.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 179,
+    "vehicle_id": 179,
+    "service_date": "2025-06-29",
+    "service_type": "inspection",
+    "status": "completed",
+    "cost": "365.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 180,
+    "vehicle_id": 180,
+    "service_date": "2025-06-30",
+    "service_type": "repair",
+    "status": "open",
+    "cost": "380.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 181,
+    "vehicle_id": 181,
+    "service_date": "2025-07-01",
+    "service_type": "maintenance",
+    "status": "completed",
+    "cost": "395.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 182,
+    "vehicle_id": 182,
+    "service_date": "2025-07-02",
+    "service_type": "inspection",
+    "status": "completed",
+    "cost": "410.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 183,
+    "vehicle_id": 183,
+    "service_date": "2025-07-03",
+    "service_type": "repair",
+    "status": "completed",
+    "cost": "425.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 184,
+    "vehicle_id": 184,
+    "service_date": "2025-07-04",
+    "service_type": "maintenance",
+    "status": "completed",
+    "cost": "440.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 185,
+    "vehicle_id": 185,
+    "service_date": "2025-07-05",
+    "service_type": "inspection",
+    "status": "open",
+    "cost": "455.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 186,
+    "vehicle_id": 186,
+    "service_date": "2025-07-06",
+    "service_type": "repair",
+    "status": "completed",
+    "cost": "470.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 187,
+    "vehicle_id": 187,
+    "service_date": "2025-07-07",
+    "service_type": "maintenance",
+    "status": "completed",
+    "cost": "485.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 188,
+    "vehicle_id": 188,
+    "service_date": "2025-07-08",
+    "service_type": "inspection",
+    "status": "completed",
+    "cost": "500.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 189,
+    "vehicle_id": 189,
+    "service_date": "2025-07-09",
+    "service_type": "repair",
+    "status": "completed",
+    "cost": "515.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 190,
+    "vehicle_id": 190,
+    "service_date": "2025-07-10",
+    "service_type": "maintenance",
+    "status": "open",
+    "cost": "530.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 191,
+    "vehicle_id": 191,
+    "service_date": "2025-07-11",
+    "service_type": "inspection",
+    "status": "completed",
+    "cost": "545.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 192,
+    "vehicle_id": 192,
+    "service_date": "2025-07-12",
+    "service_type": "repair",
+    "status": "completed",
+    "cost": "560.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 193,
+    "vehicle_id": 193,
+    "service_date": "2025-07-13",
+    "service_type": "maintenance",
+    "status": "completed",
+    "cost": "575.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 194,
+    "vehicle_id": 194,
+    "service_date": "2025-07-14",
+    "service_type": "inspection",
+    "status": "completed",
+    "cost": "590.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 195,
+    "vehicle_id": 195,
+    "service_date": "2025-07-15",
+    "service_type": "repair",
+    "status": "open",
+    "cost": "605.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 196,
+    "vehicle_id": 196,
+    "service_date": "2025-07-16",
+    "service_type": "maintenance",
+    "status": "completed",
+    "cost": "620.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 197,
+    "vehicle_id": 197,
+    "service_date": "2025-07-17",
+    "service_type": "inspection",
+    "status": "completed",
+    "cost": "635.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 198,
+    "vehicle_id": 198,
+    "service_date": "2025-07-18",
+    "service_type": "repair",
+    "status": "completed",
+    "cost": "650.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 199,
+    "vehicle_id": 199,
+    "service_date": "2025-07-19",
+    "service_type": "maintenance",
+    "status": "completed",
+    "cost": "665.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 200,
+    "vehicle_id": 200,
+    "service_date": "2025-07-20",
+    "service_type": "inspection",
+    "status": "open",
+    "cost": "80.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 201,
+    "vehicle_id": 201,
+    "service_date": "2025-07-21",
+    "service_type": "repair",
+    "status": "completed",
+    "cost": "95.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 202,
+    "vehicle_id": 202,
+    "service_date": "2025-07-22",
+    "service_type": "maintenance",
+    "status": "completed",
+    "cost": "110.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 203,
+    "vehicle_id": 203,
+    "service_date": "2025-07-23",
+    "service_type": "inspection",
+    "status": "completed",
+    "cost": "125.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 204,
+    "vehicle_id": 204,
+    "service_date": "2025-07-24",
+    "service_type": "repair",
+    "status": "completed",
+    "cost": "140.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 205,
+    "vehicle_id": 205,
+    "service_date": "2025-07-25",
+    "service_type": "maintenance",
+    "status": "open",
+    "cost": "155.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 206,
+    "vehicle_id": 206,
+    "service_date": "2025-07-26",
+    "service_type": "inspection",
+    "status": "completed",
+    "cost": "170.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 207,
+    "vehicle_id": 207,
+    "service_date": "2025-07-27",
+    "service_type": "repair",
+    "status": "completed",
+    "cost": "185.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 208,
+    "vehicle_id": 208,
+    "service_date": "2025-07-28",
+    "service_type": "maintenance",
+    "status": "completed",
+    "cost": "200.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 209,
+    "vehicle_id": 209,
+    "service_date": "2025-07-29",
+    "service_type": "inspection",
+    "status": "completed",
+    "cost": "215.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 210,
+    "vehicle_id": 210,
+    "service_date": "2025-07-30",
+    "service_type": "repair",
+    "status": "open",
+    "cost": "230.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 211,
+    "vehicle_id": 211,
+    "service_date": "2025-07-31",
+    "service_type": "maintenance",
+    "status": "completed",
+    "cost": "245.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 212,
+    "vehicle_id": 212,
+    "service_date": "2025-08-01",
+    "service_type": "inspection",
+    "status": "completed",
+    "cost": "260.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 213,
+    "vehicle_id": 213,
+    "service_date": "2025-08-02",
+    "service_type": "repair",
+    "status": "completed",
+    "cost": "275.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 214,
+    "vehicle_id": 214,
+    "service_date": "2025-08-03",
+    "service_type": "maintenance",
+    "status": "completed",
+    "cost": "290.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 215,
+    "vehicle_id": 215,
+    "service_date": "2025-08-04",
+    "service_type": "inspection",
+    "status": "open",
+    "cost": "305.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 216,
+    "vehicle_id": 216,
+    "service_date": "2025-08-05",
+    "service_type": "repair",
+    "status": "completed",
+    "cost": "320.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 217,
+    "vehicle_id": 217,
+    "service_date": "2025-08-06",
+    "service_type": "maintenance",
+    "status": "completed",
+    "cost": "335.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 218,
+    "vehicle_id": 218,
+    "service_date": "2025-08-07",
+    "service_type": "inspection",
+    "status": "completed",
+    "cost": "350.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 219,
+    "vehicle_id": 219,
+    "service_date": "2025-08-08",
+    "service_type": "repair",
+    "status": "completed",
+    "cost": "365.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 220,
+    "vehicle_id": 220,
+    "service_date": "2025-08-09",
+    "service_type": "maintenance",
+    "status": "open",
+    "cost": "380.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 221,
+    "vehicle_id": 221,
+    "service_date": "2025-08-10",
+    "service_type": "inspection",
+    "status": "completed",
+    "cost": "395.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 222,
+    "vehicle_id": 222,
+    "service_date": "2025-08-11",
+    "service_type": "repair",
+    "status": "completed",
+    "cost": "410.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 223,
+    "vehicle_id": 223,
+    "service_date": "2025-08-12",
+    "service_type": "maintenance",
+    "status": "completed",
+    "cost": "425.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 224,
+    "vehicle_id": 224,
+    "service_date": "2025-08-13",
+    "service_type": "inspection",
+    "status": "completed",
+    "cost": "440.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 225,
+    "vehicle_id": 225,
+    "service_date": "2025-08-14",
+    "service_type": "repair",
+    "status": "open",
+    "cost": "455.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 226,
+    "vehicle_id": 226,
+    "service_date": "2025-08-15",
+    "service_type": "maintenance",
+    "status": "completed",
+    "cost": "470.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 227,
+    "vehicle_id": 227,
+    "service_date": "2025-08-16",
+    "service_type": "inspection",
+    "status": "completed",
+    "cost": "485.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 228,
+    "vehicle_id": 228,
+    "service_date": "2025-08-17",
+    "service_type": "repair",
+    "status": "completed",
+    "cost": "500.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 229,
+    "vehicle_id": 229,
+    "service_date": "2025-08-18",
+    "service_type": "maintenance",
+    "status": "completed",
+    "cost": "515.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 230,
+    "vehicle_id": 230,
+    "service_date": "2025-08-19",
+    "service_type": "inspection",
+    "status": "open",
+    "cost": "530.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 231,
+    "vehicle_id": 231,
+    "service_date": "2025-08-20",
+    "service_type": "repair",
+    "status": "completed",
+    "cost": "545.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 232,
+    "vehicle_id": 232,
+    "service_date": "2025-08-21",
+    "service_type": "maintenance",
+    "status": "completed",
+    "cost": "560.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 233,
+    "vehicle_id": 233,
+    "service_date": "2025-08-22",
+    "service_type": "inspection",
+    "status": "completed",
+    "cost": "575.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 234,
+    "vehicle_id": 234,
+    "service_date": "2025-08-23",
+    "service_type": "repair",
+    "status": "completed",
+    "cost": "590.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 235,
+    "vehicle_id": 235,
+    "service_date": "2025-08-24",
+    "service_type": "maintenance",
+    "status": "open",
+    "cost": "605.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 236,
+    "vehicle_id": 236,
+    "service_date": "2025-08-25",
+    "service_type": "inspection",
+    "status": "completed",
+    "cost": "620.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 237,
+    "vehicle_id": 237,
+    "service_date": "2025-08-26",
+    "service_type": "repair",
+    "status": "completed",
+    "cost": "635.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 238,
+    "vehicle_id": 238,
+    "service_date": "2025-08-27",
+    "service_type": "maintenance",
+    "status": "completed",
+    "cost": "650.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 239,
+    "vehicle_id": 239,
+    "service_date": "2025-08-28",
+    "service_type": "inspection",
+    "status": "completed",
+    "cost": "665.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 240,
+    "vehicle_id": 240,
+    "service_date": "2025-08-29",
+    "service_type": "repair",
+    "status": "open",
+    "cost": "80.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 241,
+    "vehicle_id": 241,
+    "service_date": "2025-08-30",
+    "service_type": "maintenance",
+    "status": "completed",
+    "cost": "95.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 242,
+    "vehicle_id": 242,
+    "service_date": "2025-08-31",
+    "service_type": "inspection",
+    "status": "completed",
+    "cost": "110.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 243,
+    "vehicle_id": 243,
+    "service_date": "2025-09-01",
+    "service_type": "repair",
+    "status": "completed",
+    "cost": "125.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 244,
+    "vehicle_id": 244,
+    "service_date": "2025-09-02",
+    "service_type": "maintenance",
+    "status": "completed",
+    "cost": "140.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 245,
+    "vehicle_id": 245,
+    "service_date": "2025-09-03",
+    "service_type": "inspection",
+    "status": "open",
+    "cost": "155.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 246,
+    "vehicle_id": 246,
+    "service_date": "2025-09-04",
+    "service_type": "repair",
+    "status": "completed",
+    "cost": "170.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 247,
+    "vehicle_id": 247,
+    "service_date": "2025-09-05",
+    "service_type": "maintenance",
+    "status": "completed",
+    "cost": "185.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 248,
+    "vehicle_id": 248,
+    "service_date": "2025-09-06",
+    "service_type": "inspection",
+    "status": "completed",
+    "cost": "200.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 249,
+    "vehicle_id": 249,
+    "service_date": "2025-09-07",
+    "service_type": "repair",
+    "status": "completed",
+    "cost": "215.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 250,
+    "vehicle_id": 250,
+    "service_date": "2025-09-08",
+    "service_type": "maintenance",
+    "status": "open",
+    "cost": "230.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 251,
+    "vehicle_id": 251,
+    "service_date": "2025-09-09",
+    "service_type": "inspection",
+    "status": "completed",
+    "cost": "245.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 252,
+    "vehicle_id": 252,
+    "service_date": "2025-09-10",
+    "service_type": "repair",
+    "status": "completed",
+    "cost": "260.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 253,
+    "vehicle_id": 253,
+    "service_date": "2025-09-11",
+    "service_type": "maintenance",
+    "status": "completed",
+    "cost": "275.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 254,
+    "vehicle_id": 254,
+    "service_date": "2025-09-12",
+    "service_type": "inspection",
+    "status": "completed",
+    "cost": "290.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 255,
+    "vehicle_id": 255,
+    "service_date": "2025-09-13",
+    "service_type": "repair",
+    "status": "open",
+    "cost": "305.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 256,
+    "vehicle_id": 256,
+    "service_date": "2025-09-14",
+    "service_type": "maintenance",
+    "status": "completed",
+    "cost": "320.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 257,
+    "vehicle_id": 257,
+    "service_date": "2025-09-15",
+    "service_type": "inspection",
+    "status": "completed",
+    "cost": "335.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 258,
+    "vehicle_id": 258,
+    "service_date": "2025-09-16",
+    "service_type": "repair",
+    "status": "completed",
+    "cost": "350.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 259,
+    "vehicle_id": 259,
+    "service_date": "2025-09-17",
+    "service_type": "maintenance",
+    "status": "completed",
+    "cost": "365.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 260,
+    "vehicle_id": 260,
+    "service_date": "2025-09-18",
+    "service_type": "inspection",
+    "status": "open",
+    "cost": "380.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 261,
+    "vehicle_id": 261,
+    "service_date": "2025-09-19",
+    "service_type": "repair",
+    "status": "completed",
+    "cost": "395.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 262,
+    "vehicle_id": 262,
+    "service_date": "2025-09-20",
+    "service_type": "maintenance",
+    "status": "completed",
+    "cost": "410.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 263,
+    "vehicle_id": 263,
+    "service_date": "2025-09-21",
+    "service_type": "inspection",
+    "status": "completed",
+    "cost": "425.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 264,
+    "vehicle_id": 264,
+    "service_date": "2025-09-22",
+    "service_type": "repair",
+    "status": "completed",
+    "cost": "440.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 265,
+    "vehicle_id": 265,
+    "service_date": "2025-09-23",
+    "service_type": "maintenance",
+    "status": "open",
+    "cost": "455.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 266,
+    "vehicle_id": 266,
+    "service_date": "2025-09-24",
+    "service_type": "inspection",
+    "status": "completed",
+    "cost": "470.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 267,
+    "vehicle_id": 267,
+    "service_date": "2025-09-25",
+    "service_type": "repair",
+    "status": "completed",
+    "cost": "485.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 268,
+    "vehicle_id": 268,
+    "service_date": "2025-09-26",
+    "service_type": "maintenance",
+    "status": "completed",
+    "cost": "500.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 269,
+    "vehicle_id": 269,
+    "service_date": "2025-09-27",
+    "service_type": "inspection",
+    "status": "completed",
+    "cost": "515.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 270,
+    "vehicle_id": 270,
+    "service_date": "2025-09-28",
+    "service_type": "repair",
+    "status": "open",
+    "cost": "530.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 271,
+    "vehicle_id": 271,
+    "service_date": "2025-09-29",
+    "service_type": "maintenance",
+    "status": "completed",
+    "cost": "545.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 272,
+    "vehicle_id": 272,
+    "service_date": "2025-09-30",
+    "service_type": "inspection",
+    "status": "completed",
+    "cost": "560.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 273,
+    "vehicle_id": 273,
+    "service_date": "2025-10-01",
+    "service_type": "repair",
+    "status": "completed",
+    "cost": "575.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 274,
+    "vehicle_id": 274,
+    "service_date": "2025-10-02",
+    "service_type": "maintenance",
+    "status": "completed",
+    "cost": "590.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 275,
+    "vehicle_id": 275,
+    "service_date": "2025-10-03",
+    "service_type": "inspection",
+    "status": "open",
+    "cost": "605.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 276,
+    "vehicle_id": 276,
+    "service_date": "2025-10-04",
+    "service_type": "repair",
+    "status": "completed",
+    "cost": "620.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 277,
+    "vehicle_id": 277,
+    "service_date": "2025-10-05",
+    "service_type": "maintenance",
+    "status": "completed",
+    "cost": "635.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 278,
+    "vehicle_id": 278,
+    "service_date": "2025-10-06",
+    "service_type": "inspection",
+    "status": "completed",
+    "cost": "650.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 279,
+    "vehicle_id": 279,
+    "service_date": "2025-10-07",
+    "service_type": "repair",
+    "status": "completed",
+    "cost": "665.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 280,
+    "vehicle_id": 280,
+    "service_date": "2025-10-08",
+    "service_type": "maintenance",
+    "status": "open",
+    "cost": "80.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 281,
+    "vehicle_id": 281,
+    "service_date": "2025-10-09",
+    "service_type": "inspection",
+    "status": "completed",
+    "cost": "95.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 282,
+    "vehicle_id": 282,
+    "service_date": "2025-10-10",
+    "service_type": "repair",
+    "status": "completed",
+    "cost": "110.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 283,
+    "vehicle_id": 283,
+    "service_date": "2025-10-11",
+    "service_type": "maintenance",
+    "status": "completed",
+    "cost": "125.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 284,
+    "vehicle_id": 284,
+    "service_date": "2025-10-12",
+    "service_type": "inspection",
+    "status": "completed",
+    "cost": "140.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 285,
+    "vehicle_id": 285,
+    "service_date": "2025-10-13",
+    "service_type": "repair",
+    "status": "open",
+    "cost": "155.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 286,
+    "vehicle_id": 286,
+    "service_date": "2025-10-14",
+    "service_type": "maintenance",
+    "status": "completed",
+    "cost": "170.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 287,
+    "vehicle_id": 287,
+    "service_date": "2025-10-15",
+    "service_type": "inspection",
+    "status": "completed",
+    "cost": "185.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 288,
+    "vehicle_id": 288,
+    "service_date": "2025-10-16",
+    "service_type": "repair",
+    "status": "completed",
+    "cost": "200.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 289,
+    "vehicle_id": 289,
+    "service_date": "2025-10-17",
+    "service_type": "maintenance",
+    "status": "completed",
+    "cost": "215.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 290,
+    "vehicle_id": 290,
+    "service_date": "2025-10-18",
+    "service_type": "inspection",
+    "status": "open",
+    "cost": "230.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 291,
+    "vehicle_id": 291,
+    "service_date": "2025-10-19",
+    "service_type": "repair",
+    "status": "completed",
+    "cost": "245.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 292,
+    "vehicle_id": 292,
+    "service_date": "2025-10-20",
+    "service_type": "maintenance",
+    "status": "completed",
+    "cost": "260.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 293,
+    "vehicle_id": 293,
+    "service_date": "2025-10-21",
+    "service_type": "inspection",
+    "status": "completed",
+    "cost": "275.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 294,
+    "vehicle_id": 294,
+    "service_date": "2025-10-22",
+    "service_type": "repair",
+    "status": "completed",
+    "cost": "290.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 295,
+    "vehicle_id": 295,
+    "service_date": "2025-10-23",
+    "service_type": "maintenance",
+    "status": "open",
+    "cost": "305.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 296,
+    "vehicle_id": 296,
+    "service_date": "2025-10-24",
+    "service_type": "inspection",
+    "status": "completed",
+    "cost": "320.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 297,
+    "vehicle_id": 297,
+    "service_date": "2025-10-25",
+    "service_type": "repair",
+    "status": "completed",
+    "cost": "335.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 298,
+    "vehicle_id": 298,
+    "service_date": "2025-10-26",
+    "service_type": "maintenance",
+    "status": "completed",
+    "cost": "350.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 299,
+    "vehicle_id": 299,
+    "service_date": "2025-10-27",
+    "service_type": "inspection",
+    "status": "completed",
+    "cost": "365.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 300,
+    "vehicle_id": 300,
+    "service_date": "2025-10-28",
+    "service_type": "repair",
+    "status": "open",
+    "cost": "380.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 301,
+    "vehicle_id": 1,
+    "service_date": "2025-10-29",
+    "service_type": "maintenance",
+    "status": "completed",
+    "cost": "395.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 302,
+    "vehicle_id": 2,
+    "service_date": "2025-10-30",
+    "service_type": "inspection",
+    "status": "completed",
+    "cost": "410.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 303,
+    "vehicle_id": 3,
+    "service_date": "2025-10-31",
+    "service_type": "repair",
+    "status": "completed",
+    "cost": "425.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 304,
+    "vehicle_id": 4,
+    "service_date": "2025-11-01",
+    "service_type": "maintenance",
+    "status": "completed",
+    "cost": "440.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 305,
+    "vehicle_id": 5,
+    "service_date": "2025-11-02",
+    "service_type": "inspection",
+    "status": "open",
+    "cost": "455.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 306,
+    "vehicle_id": 6,
+    "service_date": "2025-11-03",
+    "service_type": "repair",
+    "status": "completed",
+    "cost": "470.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 307,
+    "vehicle_id": 7,
+    "service_date": "2025-11-04",
+    "service_type": "maintenance",
+    "status": "completed",
+    "cost": "485.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 308,
+    "vehicle_id": 8,
+    "service_date": "2025-11-05",
+    "service_type": "inspection",
+    "status": "completed",
+    "cost": "500.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 309,
+    "vehicle_id": 9,
+    "service_date": "2025-11-06",
+    "service_type": "repair",
+    "status": "completed",
+    "cost": "515.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 310,
+    "vehicle_id": 10,
+    "service_date": "2025-11-07",
+    "service_type": "maintenance",
+    "status": "open",
+    "cost": "530.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 311,
+    "vehicle_id": 11,
+    "service_date": "2025-11-08",
+    "service_type": "inspection",
+    "status": "completed",
+    "cost": "545.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 312,
+    "vehicle_id": 12,
+    "service_date": "2025-11-09",
+    "service_type": "repair",
+    "status": "completed",
+    "cost": "560.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 313,
+    "vehicle_id": 13,
+    "service_date": "2025-11-10",
+    "service_type": "maintenance",
+    "status": "completed",
+    "cost": "575.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 314,
+    "vehicle_id": 14,
+    "service_date": "2025-11-11",
+    "service_type": "inspection",
+    "status": "completed",
+    "cost": "590.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 315,
+    "vehicle_id": 15,
+    "service_date": "2025-11-12",
+    "service_type": "repair",
+    "status": "open",
+    "cost": "605.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 316,
+    "vehicle_id": 16,
+    "service_date": "2025-11-13",
+    "service_type": "maintenance",
+    "status": "completed",
+    "cost": "620.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 317,
+    "vehicle_id": 17,
+    "service_date": "2025-11-14",
+    "service_type": "inspection",
+    "status": "completed",
+    "cost": "635.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 318,
+    "vehicle_id": 18,
+    "service_date": "2025-11-15",
+    "service_type": "repair",
+    "status": "completed",
+    "cost": "650.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 319,
+    "vehicle_id": 19,
+    "service_date": "2025-11-16",
+    "service_type": "maintenance",
+    "status": "completed",
+    "cost": "665.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 320,
+    "vehicle_id": 20,
+    "service_date": "2025-11-17",
+    "service_type": "inspection",
+    "status": "open",
+    "cost": "80.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 321,
+    "vehicle_id": 21,
+    "service_date": "2025-11-18",
+    "service_type": "repair",
+    "status": "completed",
+    "cost": "95.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 322,
+    "vehicle_id": 22,
+    "service_date": "2025-11-19",
+    "service_type": "maintenance",
+    "status": "completed",
+    "cost": "110.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 323,
+    "vehicle_id": 23,
+    "service_date": "2025-11-20",
+    "service_type": "inspection",
+    "status": "completed",
+    "cost": "125.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 324,
+    "vehicle_id": 24,
+    "service_date": "2025-11-21",
+    "service_type": "repair",
+    "status": "completed",
+    "cost": "140.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 325,
+    "vehicle_id": 25,
+    "service_date": "2025-11-22",
+    "service_type": "maintenance",
+    "status": "open",
+    "cost": "155.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 326,
+    "vehicle_id": 26,
+    "service_date": "2025-11-23",
+    "service_type": "inspection",
+    "status": "completed",
+    "cost": "170.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 327,
+    "vehicle_id": 27,
+    "service_date": "2025-11-24",
+    "service_type": "repair",
+    "status": "completed",
+    "cost": "185.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 328,
+    "vehicle_id": 28,
+    "service_date": "2025-11-25",
+    "service_type": "maintenance",
+    "status": "completed",
+    "cost": "200.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 329,
+    "vehicle_id": 29,
+    "service_date": "2025-11-26",
+    "service_type": "inspection",
+    "status": "completed",
+    "cost": "215.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 330,
+    "vehicle_id": 30,
+    "service_date": "2025-11-27",
+    "service_type": "repair",
+    "status": "open",
+    "cost": "230.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 331,
+    "vehicle_id": 31,
+    "service_date": "2025-11-28",
+    "service_type": "maintenance",
+    "status": "completed",
+    "cost": "245.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 332,
+    "vehicle_id": 32,
+    "service_date": "2025-11-29",
+    "service_type": "inspection",
+    "status": "completed",
+    "cost": "260.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 333,
+    "vehicle_id": 33,
+    "service_date": "2025-11-30",
+    "service_type": "repair",
+    "status": "completed",
+    "cost": "275.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 334,
+    "vehicle_id": 34,
+    "service_date": "2025-12-01",
+    "service_type": "maintenance",
+    "status": "completed",
+    "cost": "290.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 335,
+    "vehicle_id": 35,
+    "service_date": "2025-12-02",
+    "service_type": "inspection",
+    "status": "open",
+    "cost": "305.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 336,
+    "vehicle_id": 36,
+    "service_date": "2025-12-03",
+    "service_type": "repair",
+    "status": "completed",
+    "cost": "320.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 337,
+    "vehicle_id": 37,
+    "service_date": "2025-12-04",
+    "service_type": "maintenance",
+    "status": "completed",
+    "cost": "335.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 338,
+    "vehicle_id": 38,
+    "service_date": "2025-12-05",
+    "service_type": "inspection",
+    "status": "completed",
+    "cost": "350.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 339,
+    "vehicle_id": 39,
+    "service_date": "2025-12-06",
+    "service_type": "repair",
+    "status": "completed",
+    "cost": "365.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 340,
+    "vehicle_id": 40,
+    "service_date": "2025-12-07",
+    "service_type": "maintenance",
+    "status": "open",
+    "cost": "380.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 341,
+    "vehicle_id": 41,
+    "service_date": "2025-12-08",
+    "service_type": "inspection",
+    "status": "completed",
+    "cost": "395.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 342,
+    "vehicle_id": 42,
+    "service_date": "2025-12-09",
+    "service_type": "repair",
+    "status": "completed",
+    "cost": "410.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 343,
+    "vehicle_id": 43,
+    "service_date": "2025-12-10",
+    "service_type": "maintenance",
+    "status": "completed",
+    "cost": "425.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 344,
+    "vehicle_id": 44,
+    "service_date": "2025-12-11",
+    "service_type": "inspection",
+    "status": "completed",
+    "cost": "440.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 345,
+    "vehicle_id": 45,
+    "service_date": "2025-12-12",
+    "service_type": "repair",
+    "status": "open",
+    "cost": "455.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 346,
+    "vehicle_id": 46,
+    "service_date": "2025-12-13",
+    "service_type": "maintenance",
+    "status": "completed",
+    "cost": "470.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 347,
+    "vehicle_id": 47,
+    "service_date": "2025-12-14",
+    "service_type": "inspection",
+    "status": "completed",
+    "cost": "485.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 348,
+    "vehicle_id": 48,
+    "service_date": "2025-12-15",
+    "service_type": "repair",
+    "status": "completed",
+    "cost": "500.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 349,
+    "vehicle_id": 49,
+    "service_date": "2025-12-16",
+    "service_type": "maintenance",
+    "status": "completed",
+    "cost": "515.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 350,
+    "vehicle_id": 50,
+    "service_date": "2025-12-17",
+    "service_type": "inspection",
+    "status": "open",
+    "cost": "530.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 351,
+    "vehicle_id": 51,
+    "service_date": "2025-12-18",
+    "service_type": "repair",
+    "status": "completed",
+    "cost": "545.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 352,
+    "vehicle_id": 52,
+    "service_date": "2025-12-19",
+    "service_type": "maintenance",
+    "status": "completed",
+    "cost": "560.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 353,
+    "vehicle_id": 53,
+    "service_date": "2025-12-20",
+    "service_type": "inspection",
+    "status": "completed",
+    "cost": "575.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 354,
+    "vehicle_id": 54,
+    "service_date": "2025-12-21",
+    "service_type": "repair",
+    "status": "completed",
+    "cost": "590.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 355,
+    "vehicle_id": 55,
+    "service_date": "2025-12-22",
+    "service_type": "maintenance",
+    "status": "open",
+    "cost": "605.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 356,
+    "vehicle_id": 56,
+    "service_date": "2025-12-23",
+    "service_type": "inspection",
+    "status": "completed",
+    "cost": "620.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 357,
+    "vehicle_id": 57,
+    "service_date": "2025-12-24",
+    "service_type": "repair",
+    "status": "completed",
+    "cost": "635.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 358,
+    "vehicle_id": 58,
+    "service_date": "2025-12-25",
+    "service_type": "maintenance",
+    "status": "completed",
+    "cost": "650.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 359,
+    "vehicle_id": 59,
+    "service_date": "2025-12-26",
+    "service_type": "inspection",
+    "status": "completed",
+    "cost": "665.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 360,
+    "vehicle_id": 60,
+    "service_date": "2025-12-27",
+    "service_type": "repair",
+    "status": "open",
+    "cost": "80.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 361,
+    "vehicle_id": 61,
+    "service_date": "2025-12-28",
+    "service_type": "maintenance",
+    "status": "completed",
+    "cost": "95.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 362,
+    "vehicle_id": 62,
+    "service_date": "2025-12-29",
+    "service_type": "inspection",
+    "status": "completed",
+    "cost": "110.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 363,
+    "vehicle_id": 63,
+    "service_date": "2025-12-30",
+    "service_type": "repair",
+    "status": "completed",
+    "cost": "125.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 364,
+    "vehicle_id": 64,
+    "service_date": "2025-12-31",
+    "service_type": "maintenance",
+    "status": "completed",
+    "cost": "140.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 365,
+    "vehicle_id": 65,
+    "service_date": "2025-01-01",
+    "service_type": "inspection",
+    "status": "open",
+    "cost": "155.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 366,
+    "vehicle_id": 66,
+    "service_date": "2025-01-02",
+    "service_type": "repair",
+    "status": "completed",
+    "cost": "170.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 367,
+    "vehicle_id": 67,
+    "service_date": "2025-01-03",
+    "service_type": "maintenance",
+    "status": "completed",
+    "cost": "185.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 368,
+    "vehicle_id": 68,
+    "service_date": "2025-01-04",
+    "service_type": "inspection",
+    "status": "completed",
+    "cost": "200.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 369,
+    "vehicle_id": 69,
+    "service_date": "2025-01-05",
+    "service_type": "repair",
+    "status": "completed",
+    "cost": "215.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 370,
+    "vehicle_id": 70,
+    "service_date": "2025-01-06",
+    "service_type": "maintenance",
+    "status": "open",
+    "cost": "230.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 371,
+    "vehicle_id": 71,
+    "service_date": "2025-01-07",
+    "service_type": "inspection",
+    "status": "completed",
+    "cost": "245.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 372,
+    "vehicle_id": 72,
+    "service_date": "2025-01-08",
+    "service_type": "repair",
+    "status": "completed",
+    "cost": "260.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 373,
+    "vehicle_id": 73,
+    "service_date": "2025-01-09",
+    "service_type": "maintenance",
+    "status": "completed",
+    "cost": "275.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 374,
+    "vehicle_id": 74,
+    "service_date": "2025-01-10",
+    "service_type": "inspection",
+    "status": "completed",
+    "cost": "290.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 375,
+    "vehicle_id": 75,
+    "service_date": "2025-01-11",
+    "service_type": "repair",
+    "status": "open",
+    "cost": "305.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 376,
+    "vehicle_id": 76,
+    "service_date": "2025-01-12",
+    "service_type": "maintenance",
+    "status": "completed",
+    "cost": "320.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 377,
+    "vehicle_id": 77,
+    "service_date": "2025-01-13",
+    "service_type": "inspection",
+    "status": "completed",
+    "cost": "335.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 378,
+    "vehicle_id": 78,
+    "service_date": "2025-01-14",
+    "service_type": "repair",
+    "status": "completed",
+    "cost": "350.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 379,
+    "vehicle_id": 79,
+    "service_date": "2025-01-15",
+    "service_type": "maintenance",
+    "status": "completed",
+    "cost": "365.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 380,
+    "vehicle_id": 80,
+    "service_date": "2025-01-16",
+    "service_type": "inspection",
+    "status": "open",
+    "cost": "380.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 381,
+    "vehicle_id": 81,
+    "service_date": "2025-01-17",
+    "service_type": "repair",
+    "status": "completed",
+    "cost": "395.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 382,
+    "vehicle_id": 82,
+    "service_date": "2025-01-18",
+    "service_type": "maintenance",
+    "status": "completed",
+    "cost": "410.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 383,
+    "vehicle_id": 83,
+    "service_date": "2025-01-19",
+    "service_type": "inspection",
+    "status": "completed",
+    "cost": "425.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 384,
+    "vehicle_id": 84,
+    "service_date": "2025-01-20",
+    "service_type": "repair",
+    "status": "completed",
+    "cost": "440.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 385,
+    "vehicle_id": 85,
+    "service_date": "2025-01-21",
+    "service_type": "maintenance",
+    "status": "open",
+    "cost": "455.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 386,
+    "vehicle_id": 86,
+    "service_date": "2025-01-22",
+    "service_type": "inspection",
+    "status": "completed",
+    "cost": "470.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 387,
+    "vehicle_id": 87,
+    "service_date": "2025-01-23",
+    "service_type": "repair",
+    "status": "completed",
+    "cost": "485.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 388,
+    "vehicle_id": 88,
+    "service_date": "2025-01-24",
+    "service_type": "maintenance",
+    "status": "completed",
+    "cost": "500.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 389,
+    "vehicle_id": 89,
+    "service_date": "2025-01-25",
+    "service_type": "inspection",
+    "status": "completed",
+    "cost": "515.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 390,
+    "vehicle_id": 90,
+    "service_date": "2025-01-26",
+    "service_type": "repair",
+    "status": "open",
+    "cost": "530.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 391,
+    "vehicle_id": 91,
+    "service_date": "2025-01-27",
+    "service_type": "maintenance",
+    "status": "completed",
+    "cost": "545.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 392,
+    "vehicle_id": 92,
+    "service_date": "2025-01-28",
+    "service_type": "inspection",
+    "status": "completed",
+    "cost": "560.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 393,
+    "vehicle_id": 93,
+    "service_date": "2025-01-29",
+    "service_type": "repair",
+    "status": "completed",
+    "cost": "575.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 394,
+    "vehicle_id": 94,
+    "service_date": "2025-01-30",
+    "service_type": "maintenance",
+    "status": "completed",
+    "cost": "590.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 395,
+    "vehicle_id": 95,
+    "service_date": "2025-01-31",
+    "service_type": "inspection",
+    "status": "open",
+    "cost": "605.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 396,
+    "vehicle_id": 96,
+    "service_date": "2025-02-01",
+    "service_type": "repair",
+    "status": "completed",
+    "cost": "620.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 397,
+    "vehicle_id": 97,
+    "service_date": "2025-02-02",
+    "service_type": "maintenance",
+    "status": "completed",
+    "cost": "635.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 398,
+    "vehicle_id": 98,
+    "service_date": "2025-02-03",
+    "service_type": "inspection",
+    "status": "completed",
+    "cost": "650.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 399,
+    "vehicle_id": 99,
+    "service_date": "2025-02-04",
+    "service_type": "repair",
+    "status": "completed",
+    "cost": "665.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 400,
+    "vehicle_id": 100,
+    "service_date": "2025-02-05",
+    "service_type": "maintenance",
+    "status": "open",
+    "cost": "80.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 401,
+    "vehicle_id": 101,
+    "service_date": "2025-02-06",
+    "service_type": "inspection",
+    "status": "completed",
+    "cost": "95.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 402,
+    "vehicle_id": 102,
+    "service_date": "2025-02-07",
+    "service_type": "repair",
+    "status": "completed",
+    "cost": "110.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 403,
+    "vehicle_id": 103,
+    "service_date": "2025-02-08",
+    "service_type": "maintenance",
+    "status": "completed",
+    "cost": "125.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 404,
+    "vehicle_id": 104,
+    "service_date": "2025-02-09",
+    "service_type": "inspection",
+    "status": "completed",
+    "cost": "140.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 405,
+    "vehicle_id": 105,
+    "service_date": "2025-02-10",
+    "service_type": "repair",
+    "status": "open",
+    "cost": "155.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 406,
+    "vehicle_id": 106,
+    "service_date": "2025-02-11",
+    "service_type": "maintenance",
+    "status": "completed",
+    "cost": "170.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 407,
+    "vehicle_id": 107,
+    "service_date": "2025-02-12",
+    "service_type": "inspection",
+    "status": "completed",
+    "cost": "185.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 408,
+    "vehicle_id": 108,
+    "service_date": "2025-02-13",
+    "service_type": "repair",
+    "status": "completed",
+    "cost": "200.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 409,
+    "vehicle_id": 109,
+    "service_date": "2025-02-14",
+    "service_type": "maintenance",
+    "status": "completed",
+    "cost": "215.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 410,
+    "vehicle_id": 110,
+    "service_date": "2025-02-15",
+    "service_type": "inspection",
+    "status": "open",
+    "cost": "230.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 411,
+    "vehicle_id": 111,
+    "service_date": "2025-02-16",
+    "service_type": "repair",
+    "status": "completed",
+    "cost": "245.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 412,
+    "vehicle_id": 112,
+    "service_date": "2025-02-17",
+    "service_type": "maintenance",
+    "status": "completed",
+    "cost": "260.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 413,
+    "vehicle_id": 113,
+    "service_date": "2025-02-18",
+    "service_type": "inspection",
+    "status": "completed",
+    "cost": "275.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 414,
+    "vehicle_id": 114,
+    "service_date": "2025-02-19",
+    "service_type": "repair",
+    "status": "completed",
+    "cost": "290.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 415,
+    "vehicle_id": 115,
+    "service_date": "2025-02-20",
+    "service_type": "maintenance",
+    "status": "open",
+    "cost": "305.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 416,
+    "vehicle_id": 116,
+    "service_date": "2025-02-21",
+    "service_type": "inspection",
+    "status": "completed",
+    "cost": "320.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 417,
+    "vehicle_id": 117,
+    "service_date": "2025-02-22",
+    "service_type": "repair",
+    "status": "completed",
+    "cost": "335.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 418,
+    "vehicle_id": 118,
+    "service_date": "2025-02-23",
+    "service_type": "maintenance",
+    "status": "completed",
+    "cost": "350.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 419,
+    "vehicle_id": 119,
+    "service_date": "2025-02-24",
+    "service_type": "inspection",
+    "status": "completed",
+    "cost": "365.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 420,
+    "vehicle_id": 120,
+    "service_date": "2025-02-25",
+    "service_type": "repair",
+    "status": "open",
+    "cost": "380.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 421,
+    "vehicle_id": 121,
+    "service_date": "2025-02-26",
+    "service_type": "maintenance",
+    "status": "completed",
+    "cost": "395.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 422,
+    "vehicle_id": 122,
+    "service_date": "2025-02-27",
+    "service_type": "inspection",
+    "status": "completed",
+    "cost": "410.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 423,
+    "vehicle_id": 123,
+    "service_date": "2025-02-28",
+    "service_type": "repair",
+    "status": "completed",
+    "cost": "425.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 424,
+    "vehicle_id": 124,
+    "service_date": "2025-03-01",
+    "service_type": "maintenance",
+    "status": "completed",
+    "cost": "440.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 425,
+    "vehicle_id": 125,
+    "service_date": "2025-03-02",
+    "service_type": "inspection",
+    "status": "open",
+    "cost": "455.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 426,
+    "vehicle_id": 126,
+    "service_date": "2025-03-03",
+    "service_type": "repair",
+    "status": "completed",
+    "cost": "470.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 427,
+    "vehicle_id": 127,
+    "service_date": "2025-03-04",
+    "service_type": "maintenance",
+    "status": "completed",
+    "cost": "485.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 428,
+    "vehicle_id": 128,
+    "service_date": "2025-03-05",
+    "service_type": "inspection",
+    "status": "completed",
+    "cost": "500.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 429,
+    "vehicle_id": 129,
+    "service_date": "2025-03-06",
+    "service_type": "repair",
+    "status": "completed",
+    "cost": "515.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 430,
+    "vehicle_id": 130,
+    "service_date": "2025-03-07",
+    "service_type": "maintenance",
+    "status": "open",
+    "cost": "530.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 431,
+    "vehicle_id": 131,
+    "service_date": "2025-03-08",
+    "service_type": "inspection",
+    "status": "completed",
+    "cost": "545.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 432,
+    "vehicle_id": 132,
+    "service_date": "2025-03-09",
+    "service_type": "repair",
+    "status": "completed",
+    "cost": "560.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 433,
+    "vehicle_id": 133,
+    "service_date": "2025-03-10",
+    "service_type": "maintenance",
+    "status": "completed",
+    "cost": "575.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 434,
+    "vehicle_id": 134,
+    "service_date": "2025-03-11",
+    "service_type": "inspection",
+    "status": "completed",
+    "cost": "590.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 435,
+    "vehicle_id": 135,
+    "service_date": "2025-03-12",
+    "service_type": "repair",
+    "status": "open",
+    "cost": "605.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 436,
+    "vehicle_id": 136,
+    "service_date": "2025-03-13",
+    "service_type": "maintenance",
+    "status": "completed",
+    "cost": "620.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 437,
+    "vehicle_id": 137,
+    "service_date": "2025-03-14",
+    "service_type": "inspection",
+    "status": "completed",
+    "cost": "635.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 438,
+    "vehicle_id": 138,
+    "service_date": "2025-03-15",
+    "service_type": "repair",
+    "status": "completed",
+    "cost": "650.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 439,
+    "vehicle_id": 139,
+    "service_date": "2025-03-16",
+    "service_type": "maintenance",
+    "status": "completed",
+    "cost": "665.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 440,
+    "vehicle_id": 140,
+    "service_date": "2025-03-17",
+    "service_type": "inspection",
+    "status": "open",
+    "cost": "80.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 441,
+    "vehicle_id": 141,
+    "service_date": "2025-03-18",
+    "service_type": "repair",
+    "status": "completed",
+    "cost": "95.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 442,
+    "vehicle_id": 142,
+    "service_date": "2025-03-19",
+    "service_type": "maintenance",
+    "status": "completed",
+    "cost": "110.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 443,
+    "vehicle_id": 143,
+    "service_date": "2025-03-20",
+    "service_type": "inspection",
+    "status": "completed",
+    "cost": "125.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 444,
+    "vehicle_id": 144,
+    "service_date": "2025-03-21",
+    "service_type": "repair",
+    "status": "completed",
+    "cost": "140.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 445,
+    "vehicle_id": 145,
+    "service_date": "2025-03-22",
+    "service_type": "maintenance",
+    "status": "open",
+    "cost": "155.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 446,
+    "vehicle_id": 146,
+    "service_date": "2025-03-23",
+    "service_type": "inspection",
+    "status": "completed",
+    "cost": "170.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 447,
+    "vehicle_id": 147,
+    "service_date": "2025-03-24",
+    "service_type": "repair",
+    "status": "completed",
+    "cost": "185.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 448,
+    "vehicle_id": 148,
+    "service_date": "2025-03-25",
+    "service_type": "maintenance",
+    "status": "completed",
+    "cost": "200.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 449,
+    "vehicle_id": 149,
+    "service_date": "2025-03-26",
+    "service_type": "inspection",
+    "status": "completed",
+    "cost": "215.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 450,
+    "vehicle_id": 150,
+    "service_date": "2025-03-27",
+    "service_type": "repair",
+    "status": "open",
+    "cost": "230.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 451,
+    "vehicle_id": 151,
+    "service_date": "2025-03-28",
+    "service_type": "maintenance",
+    "status": "completed",
+    "cost": "245.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 452,
+    "vehicle_id": 152,
+    "service_date": "2025-03-29",
+    "service_type": "inspection",
+    "status": "completed",
+    "cost": "260.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 453,
+    "vehicle_id": 153,
+    "service_date": "2025-03-30",
+    "service_type": "repair",
+    "status": "completed",
+    "cost": "275.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 454,
+    "vehicle_id": 154,
+    "service_date": "2025-03-31",
+    "service_type": "maintenance",
+    "status": "completed",
+    "cost": "290.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 455,
+    "vehicle_id": 155,
+    "service_date": "2025-04-01",
+    "service_type": "inspection",
+    "status": "open",
+    "cost": "305.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 456,
+    "vehicle_id": 156,
+    "service_date": "2025-04-02",
+    "service_type": "repair",
+    "status": "completed",
+    "cost": "320.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 457,
+    "vehicle_id": 157,
+    "service_date": "2025-04-03",
+    "service_type": "maintenance",
+    "status": "completed",
+    "cost": "335.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 458,
+    "vehicle_id": 158,
+    "service_date": "2025-04-04",
+    "service_type": "inspection",
+    "status": "completed",
+    "cost": "350.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 459,
+    "vehicle_id": 159,
+    "service_date": "2025-04-05",
+    "service_type": "repair",
+    "status": "completed",
+    "cost": "365.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 460,
+    "vehicle_id": 160,
+    "service_date": "2025-04-06",
+    "service_type": "maintenance",
+    "status": "open",
+    "cost": "380.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 461,
+    "vehicle_id": 161,
+    "service_date": "2025-04-07",
+    "service_type": "inspection",
+    "status": "completed",
+    "cost": "395.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 462,
+    "vehicle_id": 162,
+    "service_date": "2025-04-08",
+    "service_type": "repair",
+    "status": "completed",
+    "cost": "410.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 463,
+    "vehicle_id": 163,
+    "service_date": "2025-04-09",
+    "service_type": "maintenance",
+    "status": "completed",
+    "cost": "425.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 464,
+    "vehicle_id": 164,
+    "service_date": "2025-04-10",
+    "service_type": "inspection",
+    "status": "completed",
+    "cost": "440.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 465,
+    "vehicle_id": 165,
+    "service_date": "2025-04-11",
+    "service_type": "repair",
+    "status": "open",
+    "cost": "455.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 466,
+    "vehicle_id": 166,
+    "service_date": "2025-04-12",
+    "service_type": "maintenance",
+    "status": "completed",
+    "cost": "470.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 467,
+    "vehicle_id": 167,
+    "service_date": "2025-04-13",
+    "service_type": "inspection",
+    "status": "completed",
+    "cost": "485.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 468,
+    "vehicle_id": 168,
+    "service_date": "2025-04-14",
+    "service_type": "repair",
+    "status": "completed",
+    "cost": "500.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 469,
+    "vehicle_id": 169,
+    "service_date": "2025-04-15",
+    "service_type": "maintenance",
+    "status": "completed",
+    "cost": "515.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 470,
+    "vehicle_id": 170,
+    "service_date": "2025-04-16",
+    "service_type": "inspection",
+    "status": "open",
+    "cost": "530.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 471,
+    "vehicle_id": 171,
+    "service_date": "2025-04-17",
+    "service_type": "repair",
+    "status": "completed",
+    "cost": "545.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 472,
+    "vehicle_id": 172,
+    "service_date": "2025-04-18",
+    "service_type": "maintenance",
+    "status": "completed",
+    "cost": "560.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 473,
+    "vehicle_id": 173,
+    "service_date": "2025-04-19",
+    "service_type": "inspection",
+    "status": "completed",
+    "cost": "575.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 474,
+    "vehicle_id": 174,
+    "service_date": "2025-04-20",
+    "service_type": "repair",
+    "status": "completed",
+    "cost": "590.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 475,
+    "vehicle_id": 175,
+    "service_date": "2025-04-21",
+    "service_type": "maintenance",
+    "status": "open",
+    "cost": "605.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 476,
+    "vehicle_id": 176,
+    "service_date": "2025-04-22",
+    "service_type": "inspection",
+    "status": "completed",
+    "cost": "620.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 477,
+    "vehicle_id": 177,
+    "service_date": "2025-04-23",
+    "service_type": "repair",
+    "status": "completed",
+    "cost": "635.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 478,
+    "vehicle_id": 178,
+    "service_date": "2025-04-24",
+    "service_type": "maintenance",
+    "status": "completed",
+    "cost": "650.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 479,
+    "vehicle_id": 179,
+    "service_date": "2025-04-25",
+    "service_type": "inspection",
+    "status": "completed",
+    "cost": "665.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 480,
+    "vehicle_id": 180,
+    "service_date": "2025-04-26",
+    "service_type": "repair",
+    "status": "open",
+    "cost": "80.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 481,
+    "vehicle_id": 181,
+    "service_date": "2025-04-27",
+    "service_type": "maintenance",
+    "status": "completed",
+    "cost": "95.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 482,
+    "vehicle_id": 182,
+    "service_date": "2025-04-28",
+    "service_type": "inspection",
+    "status": "completed",
+    "cost": "110.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 483,
+    "vehicle_id": 183,
+    "service_date": "2025-04-29",
+    "service_type": "repair",
+    "status": "completed",
+    "cost": "125.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 484,
+    "vehicle_id": 184,
+    "service_date": "2025-04-30",
+    "service_type": "maintenance",
+    "status": "completed",
+    "cost": "140.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 485,
+    "vehicle_id": 185,
+    "service_date": "2025-05-01",
+    "service_type": "inspection",
+    "status": "open",
+    "cost": "155.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 486,
+    "vehicle_id": 186,
+    "service_date": "2025-05-02",
+    "service_type": "repair",
+    "status": "completed",
+    "cost": "170.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 487,
+    "vehicle_id": 187,
+    "service_date": "2025-05-03",
+    "service_type": "maintenance",
+    "status": "completed",
+    "cost": "185.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 488,
+    "vehicle_id": 188,
+    "service_date": "2025-05-04",
+    "service_type": "inspection",
+    "status": "completed",
+    "cost": "200.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 489,
+    "vehicle_id": 189,
+    "service_date": "2025-05-05",
+    "service_type": "repair",
+    "status": "completed",
+    "cost": "215.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 490,
+    "vehicle_id": 190,
+    "service_date": "2025-05-06",
+    "service_type": "maintenance",
+    "status": "open",
+    "cost": "230.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 491,
+    "vehicle_id": 191,
+    "service_date": "2025-05-07",
+    "service_type": "inspection",
+    "status": "completed",
+    "cost": "245.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 492,
+    "vehicle_id": 192,
+    "service_date": "2025-05-08",
+    "service_type": "repair",
+    "status": "completed",
+    "cost": "260.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 493,
+    "vehicle_id": 193,
+    "service_date": "2025-05-09",
+    "service_type": "maintenance",
+    "status": "completed",
+    "cost": "275.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 494,
+    "vehicle_id": 194,
+    "service_date": "2025-05-10",
+    "service_type": "inspection",
+    "status": "completed",
+    "cost": "290.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 495,
+    "vehicle_id": 195,
+    "service_date": "2025-05-11",
+    "service_type": "repair",
+    "status": "open",
+    "cost": "305.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 496,
+    "vehicle_id": 196,
+    "service_date": "2025-05-12",
+    "service_type": "maintenance",
+    "status": "completed",
+    "cost": "320.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 497,
+    "vehicle_id": 197,
+    "service_date": "2025-05-13",
+    "service_type": "inspection",
+    "status": "completed",
+    "cost": "335.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 498,
+    "vehicle_id": 198,
+    "service_date": "2025-05-14",
+    "service_type": "repair",
+    "status": "completed",
+    "cost": "350.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 499,
+    "vehicle_id": 199,
+    "service_date": "2025-05-15",
+    "service_type": "maintenance",
+    "status": "completed",
+    "cost": "365.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 500,
+    "vehicle_id": 200,
+    "service_date": "2025-05-16",
+    "service_type": "inspection",
+    "status": "open",
+    "cost": "380.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 501,
+    "vehicle_id": 201,
+    "service_date": "2025-05-17",
+    "service_type": "repair",
+    "status": "completed",
+    "cost": "395.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 502,
+    "vehicle_id": 202,
+    "service_date": "2025-05-18",
+    "service_type": "maintenance",
+    "status": "completed",
+    "cost": "410.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 503,
+    "vehicle_id": 203,
+    "service_date": "2025-05-19",
+    "service_type": "inspection",
+    "status": "completed",
+    "cost": "425.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 504,
+    "vehicle_id": 204,
+    "service_date": "2025-05-20",
+    "service_type": "repair",
+    "status": "completed",
+    "cost": "440.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 505,
+    "vehicle_id": 205,
+    "service_date": "2025-05-21",
+    "service_type": "maintenance",
+    "status": "open",
+    "cost": "455.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 506,
+    "vehicle_id": 206,
+    "service_date": "2025-05-22",
+    "service_type": "inspection",
+    "status": "completed",
+    "cost": "470.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 507,
+    "vehicle_id": 207,
+    "service_date": "2025-05-23",
+    "service_type": "repair",
+    "status": "completed",
+    "cost": "485.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 508,
+    "vehicle_id": 208,
+    "service_date": "2025-05-24",
+    "service_type": "maintenance",
+    "status": "completed",
+    "cost": "500.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 509,
+    "vehicle_id": 209,
+    "service_date": "2025-05-25",
+    "service_type": "inspection",
+    "status": "completed",
+    "cost": "515.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 510,
+    "vehicle_id": 210,
+    "service_date": "2025-05-26",
+    "service_type": "repair",
+    "status": "open",
+    "cost": "530.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 511,
+    "vehicle_id": 211,
+    "service_date": "2025-05-27",
+    "service_type": "maintenance",
+    "status": "completed",
+    "cost": "545.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 512,
+    "vehicle_id": 212,
+    "service_date": "2025-05-28",
+    "service_type": "inspection",
+    "status": "completed",
+    "cost": "560.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 513,
+    "vehicle_id": 213,
+    "service_date": "2025-05-29",
+    "service_type": "repair",
+    "status": "completed",
+    "cost": "575.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 514,
+    "vehicle_id": 214,
+    "service_date": "2025-05-30",
+    "service_type": "maintenance",
+    "status": "completed",
+    "cost": "590.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 515,
+    "vehicle_id": 215,
+    "service_date": "2025-05-31",
+    "service_type": "inspection",
+    "status": "open",
+    "cost": "605.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 516,
+    "vehicle_id": 216,
+    "service_date": "2025-06-01",
+    "service_type": "repair",
+    "status": "completed",
+    "cost": "620.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 517,
+    "vehicle_id": 217,
+    "service_date": "2025-06-02",
+    "service_type": "maintenance",
+    "status": "completed",
+    "cost": "635.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 518,
+    "vehicle_id": 218,
+    "service_date": "2025-06-03",
+    "service_type": "inspection",
+    "status": "completed",
+    "cost": "650.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 519,
+    "vehicle_id": 219,
+    "service_date": "2025-06-04",
+    "service_type": "repair",
+    "status": "completed",
+    "cost": "665.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 520,
+    "vehicle_id": 220,
+    "service_date": "2025-06-05",
+    "service_type": "maintenance",
+    "status": "open",
+    "cost": "80.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 521,
+    "vehicle_id": 221,
+    "service_date": "2025-06-06",
+    "service_type": "inspection",
+    "status": "completed",
+    "cost": "95.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 522,
+    "vehicle_id": 222,
+    "service_date": "2025-06-07",
+    "service_type": "repair",
+    "status": "completed",
+    "cost": "110.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 523,
+    "vehicle_id": 223,
+    "service_date": "2025-06-08",
+    "service_type": "maintenance",
+    "status": "completed",
+    "cost": "125.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 524,
+    "vehicle_id": 224,
+    "service_date": "2025-06-09",
+    "service_type": "inspection",
+    "status": "completed",
+    "cost": "140.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 525,
+    "vehicle_id": 225,
+    "service_date": "2025-06-10",
+    "service_type": "repair",
+    "status": "open",
+    "cost": "155.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 526,
+    "vehicle_id": 226,
+    "service_date": "2025-06-11",
+    "service_type": "maintenance",
+    "status": "completed",
+    "cost": "170.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 527,
+    "vehicle_id": 227,
+    "service_date": "2025-06-12",
+    "service_type": "inspection",
+    "status": "completed",
+    "cost": "185.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 528,
+    "vehicle_id": 228,
+    "service_date": "2025-06-13",
+    "service_type": "repair",
+    "status": "completed",
+    "cost": "200.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 529,
+    "vehicle_id": 229,
+    "service_date": "2025-06-14",
+    "service_type": "maintenance",
+    "status": "completed",
+    "cost": "215.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 530,
+    "vehicle_id": 230,
+    "service_date": "2025-06-15",
+    "service_type": "inspection",
+    "status": "open",
+    "cost": "230.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 531,
+    "vehicle_id": 231,
+    "service_date": "2025-06-16",
+    "service_type": "repair",
+    "status": "completed",
+    "cost": "245.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 532,
+    "vehicle_id": 232,
+    "service_date": "2025-06-17",
+    "service_type": "maintenance",
+    "status": "completed",
+    "cost": "260.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 533,
+    "vehicle_id": 233,
+    "service_date": "2025-06-18",
+    "service_type": "inspection",
+    "status": "completed",
+    "cost": "275.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 534,
+    "vehicle_id": 234,
+    "service_date": "2025-06-19",
+    "service_type": "repair",
+    "status": "completed",
+    "cost": "290.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 535,
+    "vehicle_id": 235,
+    "service_date": "2025-06-20",
+    "service_type": "maintenance",
+    "status": "open",
+    "cost": "305.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 536,
+    "vehicle_id": 236,
+    "service_date": "2025-06-21",
+    "service_type": "inspection",
+    "status": "completed",
+    "cost": "320.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 537,
+    "vehicle_id": 237,
+    "service_date": "2025-06-22",
+    "service_type": "repair",
+    "status": "completed",
+    "cost": "335.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 538,
+    "vehicle_id": 238,
+    "service_date": "2025-06-23",
+    "service_type": "maintenance",
+    "status": "completed",
+    "cost": "350.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 539,
+    "vehicle_id": 239,
+    "service_date": "2025-06-24",
+    "service_type": "inspection",
+    "status": "completed",
+    "cost": "365.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 540,
+    "vehicle_id": 240,
+    "service_date": "2025-06-25",
+    "service_type": "repair",
+    "status": "open",
+    "cost": "380.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 541,
+    "vehicle_id": 241,
+    "service_date": "2025-06-26",
+    "service_type": "maintenance",
+    "status": "completed",
+    "cost": "395.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 542,
+    "vehicle_id": 242,
+    "service_date": "2025-06-27",
+    "service_type": "inspection",
+    "status": "completed",
+    "cost": "410.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 543,
+    "vehicle_id": 243,
+    "service_date": "2025-06-28",
+    "service_type": "repair",
+    "status": "completed",
+    "cost": "425.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 544,
+    "vehicle_id": 244,
+    "service_date": "2025-06-29",
+    "service_type": "maintenance",
+    "status": "completed",
+    "cost": "440.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 545,
+    "vehicle_id": 245,
+    "service_date": "2025-06-30",
+    "service_type": "inspection",
+    "status": "open",
+    "cost": "455.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 546,
+    "vehicle_id": 246,
+    "service_date": "2025-07-01",
+    "service_type": "repair",
+    "status": "completed",
+    "cost": "470.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 547,
+    "vehicle_id": 247,
+    "service_date": "2025-07-02",
+    "service_type": "maintenance",
+    "status": "completed",
+    "cost": "485.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 548,
+    "vehicle_id": 248,
+    "service_date": "2025-07-03",
+    "service_type": "inspection",
+    "status": "completed",
+    "cost": "500.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 549,
+    "vehicle_id": 249,
+    "service_date": "2025-07-04",
+    "service_type": "repair",
+    "status": "completed",
+    "cost": "515.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 550,
+    "vehicle_id": 250,
+    "service_date": "2025-07-05",
+    "service_type": "maintenance",
+    "status": "open",
+    "cost": "530.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 551,
+    "vehicle_id": 251,
+    "service_date": "2025-07-06",
+    "service_type": "inspection",
+    "status": "completed",
+    "cost": "545.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 552,
+    "vehicle_id": 252,
+    "service_date": "2025-07-07",
+    "service_type": "repair",
+    "status": "completed",
+    "cost": "560.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 553,
+    "vehicle_id": 253,
+    "service_date": "2025-07-08",
+    "service_type": "maintenance",
+    "status": "completed",
+    "cost": "575.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 554,
+    "vehicle_id": 254,
+    "service_date": "2025-07-09",
+    "service_type": "inspection",
+    "status": "completed",
+    "cost": "590.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 555,
+    "vehicle_id": 255,
+    "service_date": "2025-07-10",
+    "service_type": "repair",
+    "status": "open",
+    "cost": "605.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 556,
+    "vehicle_id": 256,
+    "service_date": "2025-07-11",
+    "service_type": "maintenance",
+    "status": "completed",
+    "cost": "620.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 557,
+    "vehicle_id": 257,
+    "service_date": "2025-07-12",
+    "service_type": "inspection",
+    "status": "completed",
+    "cost": "635.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 558,
+    "vehicle_id": 258,
+    "service_date": "2025-07-13",
+    "service_type": "repair",
+    "status": "completed",
+    "cost": "650.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 559,
+    "vehicle_id": 259,
+    "service_date": "2025-07-14",
+    "service_type": "maintenance",
+    "status": "completed",
+    "cost": "665.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 560,
+    "vehicle_id": 260,
+    "service_date": "2025-07-15",
+    "service_type": "inspection",
+    "status": "open",
+    "cost": "80.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 561,
+    "vehicle_id": 261,
+    "service_date": "2025-07-16",
+    "service_type": "repair",
+    "status": "completed",
+    "cost": "95.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 562,
+    "vehicle_id": 262,
+    "service_date": "2025-07-17",
+    "service_type": "maintenance",
+    "status": "completed",
+    "cost": "110.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 563,
+    "vehicle_id": 263,
+    "service_date": "2025-07-18",
+    "service_type": "inspection",
+    "status": "completed",
+    "cost": "125.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 564,
+    "vehicle_id": 264,
+    "service_date": "2025-07-19",
+    "service_type": "repair",
+    "status": "completed",
+    "cost": "140.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 565,
+    "vehicle_id": 265,
+    "service_date": "2025-07-20",
+    "service_type": "maintenance",
+    "status": "open",
+    "cost": "155.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 566,
+    "vehicle_id": 266,
+    "service_date": "2025-07-21",
+    "service_type": "inspection",
+    "status": "completed",
+    "cost": "170.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 567,
+    "vehicle_id": 267,
+    "service_date": "2025-07-22",
+    "service_type": "repair",
+    "status": "completed",
+    "cost": "185.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 568,
+    "vehicle_id": 268,
+    "service_date": "2025-07-23",
+    "service_type": "maintenance",
+    "status": "completed",
+    "cost": "200.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 569,
+    "vehicle_id": 269,
+    "service_date": "2025-07-24",
+    "service_type": "inspection",
+    "status": "completed",
+    "cost": "215.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 570,
+    "vehicle_id": 270,
+    "service_date": "2025-07-25",
+    "service_type": "repair",
+    "status": "open",
+    "cost": "230.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 571,
+    "vehicle_id": 271,
+    "service_date": "2025-07-26",
+    "service_type": "maintenance",
+    "status": "completed",
+    "cost": "245.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 572,
+    "vehicle_id": 272,
+    "service_date": "2025-07-27",
+    "service_type": "inspection",
+    "status": "completed",
+    "cost": "260.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 573,
+    "vehicle_id": 273,
+    "service_date": "2025-07-28",
+    "service_type": "repair",
+    "status": "completed",
+    "cost": "275.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 574,
+    "vehicle_id": 274,
+    "service_date": "2025-07-29",
+    "service_type": "maintenance",
+    "status": "completed",
+    "cost": "290.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 575,
+    "vehicle_id": 275,
+    "service_date": "2025-07-30",
+    "service_type": "inspection",
+    "status": "open",
+    "cost": "305.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 576,
+    "vehicle_id": 276,
+    "service_date": "2025-07-31",
+    "service_type": "repair",
+    "status": "completed",
+    "cost": "320.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 577,
+    "vehicle_id": 277,
+    "service_date": "2025-08-01",
+    "service_type": "maintenance",
+    "status": "completed",
+    "cost": "335.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 578,
+    "vehicle_id": 278,
+    "service_date": "2025-08-02",
+    "service_type": "inspection",
+    "status": "completed",
+    "cost": "350.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 579,
+    "vehicle_id": 279,
+    "service_date": "2025-08-03",
+    "service_type": "repair",
+    "status": "completed",
+    "cost": "365.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 580,
+    "vehicle_id": 280,
+    "service_date": "2025-08-04",
+    "service_type": "maintenance",
+    "status": "open",
+    "cost": "380.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 581,
+    "vehicle_id": 281,
+    "service_date": "2025-08-05",
+    "service_type": "inspection",
+    "status": "completed",
+    "cost": "395.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 582,
+    "vehicle_id": 282,
+    "service_date": "2025-08-06",
+    "service_type": "repair",
+    "status": "completed",
+    "cost": "410.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 583,
+    "vehicle_id": 283,
+    "service_date": "2025-08-07",
+    "service_type": "maintenance",
+    "status": "completed",
+    "cost": "425.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 584,
+    "vehicle_id": 284,
+    "service_date": "2025-08-08",
+    "service_type": "inspection",
+    "status": "completed",
+    "cost": "440.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 585,
+    "vehicle_id": 285,
+    "service_date": "2025-08-09",
+    "service_type": "repair",
+    "status": "open",
+    "cost": "455.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 586,
+    "vehicle_id": 286,
+    "service_date": "2025-08-10",
+    "service_type": "maintenance",
+    "status": "completed",
+    "cost": "470.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 587,
+    "vehicle_id": 287,
+    "service_date": "2025-08-11",
+    "service_type": "inspection",
+    "status": "completed",
+    "cost": "485.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 588,
+    "vehicle_id": 288,
+    "service_date": "2025-08-12",
+    "service_type": "repair",
+    "status": "completed",
+    "cost": "500.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 589,
+    "vehicle_id": 289,
+    "service_date": "2025-08-13",
+    "service_type": "maintenance",
+    "status": "completed",
+    "cost": "515.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 590,
+    "vehicle_id": 290,
+    "service_date": "2025-08-14",
+    "service_type": "inspection",
+    "status": "open",
+    "cost": "530.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 591,
+    "vehicle_id": 291,
+    "service_date": "2025-08-15",
+    "service_type": "repair",
+    "status": "completed",
+    "cost": "545.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 592,
+    "vehicle_id": 292,
+    "service_date": "2025-08-16",
+    "service_type": "maintenance",
+    "status": "completed",
+    "cost": "560.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 593,
+    "vehicle_id": 293,
+    "service_date": "2025-08-17",
+    "service_type": "inspection",
+    "status": "completed",
+    "cost": "575.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 594,
+    "vehicle_id": 294,
+    "service_date": "2025-08-18",
+    "service_type": "repair",
+    "status": "completed",
+    "cost": "590.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 595,
+    "vehicle_id": 295,
+    "service_date": "2025-08-19",
+    "service_type": "maintenance",
+    "status": "open",
+    "cost": "605.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 596,
+    "vehicle_id": 296,
+    "service_date": "2025-08-20",
+    "service_type": "inspection",
+    "status": "completed",
+    "cost": "620.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 597,
+    "vehicle_id": 297,
+    "service_date": "2025-08-21",
+    "service_type": "repair",
+    "status": "completed",
+    "cost": "635.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 598,
+    "vehicle_id": 298,
+    "service_date": "2025-08-22",
+    "service_type": "maintenance",
+    "status": "completed",
+    "cost": "650.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 599,
+    "vehicle_id": 299,
+    "service_date": "2025-08-23",
+    "service_type": "inspection",
+    "status": "completed",
+    "cost": "665.00",
+    "is_synthetic": true
+  },
+  {
+    "order_id": 600,
+    "vehicle_id": 300,
+    "service_date": "2025-08-24",
+    "service_type": "repair",
+    "status": "open",
+    "cost": "80.00",
+    "is_synthetic": true
+  }
+]

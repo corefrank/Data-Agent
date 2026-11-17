@@ -1,0 +1,38 @@
+[
+  {
+    "dealer_id": 1,
+    "dealer_name": "Demo Dealer 1",
+    "region": "West",
+    "is_synthetic": true
+  },
+  {
+    "dealer_id": 2,
+    "dealer_name": "Demo Dealer 2",
+    "region": "East",
+    "is_synthetic": true
+  },
+  {
+    "dealer_id": 3,
+    "dealer_name": "Demo Dealer 3",
+    "region": "Central",
+    "is_synthetic": true
+  },
+  {
+    "dealer_id": 4,
+    "dealer_name": "Demo Dealer 4",
+    "region": "West",
+    "is_synthetic": true
+  },
+  {
+    "dealer_id": 5,
+    "dealer_name": "Demo Dealer 5",
+    "region": "East",
+    "is_synthetic": true
+  },
+  {
+    "dealer_id": 6,
+    "dealer_name": "Demo Dealer 6",
+    "region": "Central",
+    "is_synthetic": true
+  }
+]

@@ -1,0 +1,11 @@
+.env
+.venv/
+__pycache__/
+.pytest_cache/
+data/*.duckdb*
+data/pipelines/
+data/runs/
+dbt/target/
+dbt/logs/
+dbt/.user.yml
+logs/

@@ -1,0 +1,20 @@
+name: ford_warehouse
+version: '1.0.0'
+config-version: 2
+profile: ford_warehouse
+model-paths: [models]
+test-paths: [tests]
+macro-paths: [macros]
+models:
+  ford_warehouse:
+    dwd:
+      +schema: dwd
+      +materialized: table
+    dws:
+      +schema: dws
+      +materialized: table
+    ads:
+      +schema: ads
+      +materialized: table
+flags:
+  send_anonymous_usage_stats: false

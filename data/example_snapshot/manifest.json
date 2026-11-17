@@ -1,0 +1,53 @@
+{
+  "run_id": "20261117T031216_469168Z",
+  "started_at": "2026-11-17T03:12:16.469321+00:00",
+  "status": "loaded",
+  "nhtsa": [
+    {
+      "make": "FORD",
+      "model": "ESCAPE",
+      "model_year": 2020,
+      "file": "nhtsa_0.json",
+      "count": 23,
+      "fetched_at": "2026-11-17T03:12:22.149594+00:00",
+      "url": "https://api.nhtsa.gov/recalls/recallsByVehicle?make=FORD&model=ESCAPE&modelYear=2020"
+    },
+    {
+      "make": "FORD",
+      "model": "EXPLORER",
+      "model_year": 2020,
+      "file": "nhtsa_1.json",
+      "count": 33,
+      "fetched_at": "2026-11-17T03:12:22.753548+00:00",
+      "url": "https://api.nhtsa.gov/recalls/recallsByVehicle?make=FORD&model=EXPLORER&modelYear=2020"
+    },
+    {
+      "make": "FORD",
+      "model": "F-150",
+      "model_year": 2020,
+      "file": "nhtsa_2.json",
+      "count": 11,
+      "fetched_at": "2026-11-17T03:12:23.301921+00:00",
+      "url": "https://api.nhtsa.gov/recalls/recallsByVehicle?make=FORD&model=F-150&modelYear=2020"
+    }
+  ],
+  "postgres": {
+    "dealers": {
+      "count": 6,
+      "pages": 1
+    },
+    "vehicles": {
+      "count": 300,
+      "pages": 3
+    },
+    "service_orders": {
+      "count": 600,
+      "pages": 6
+    }
+  },
+  "extracted_at": "2026-11-17T03:12:23.523597+00:00",
+  "loaded_at": "2026-11-17T03:24:43.966391+00:00",
+  "load_ids": [
+    "1794885883.5973418"
+  ]
+}

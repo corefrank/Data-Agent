@@ -1,0 +1,33 @@
+version: 2
+models:
+  - name: vehicle_detail
+    columns:
+      - name: vehicle_id
+        data_tests: [not_null, unique]
+      - name: region
+        data_tests: [not_null]
+  - name: service_order_detail
+    columns:
+      - name: order_id
+        data_tests: [not_null, unique]
+      - name: vehicle_id
+        data_tests:
+          - not_null
+          - relationships:
+              arguments:
+                to: ref('vehicle_detail')
+                field: vehicle_id
+      - name: status
+        data_tests:
+          - not_null
+          - accepted_values:
+              arguments:
+                values: ['open', 'completed']
+  - name: recall_detail
+    columns:
+      - name: campaign_number
+        data_tests: [not_null]
+      - name: report_received_date
+        data_tests: [not_null]
+  - name: vehicle_aftersales_dashboard
+    description: 每个品牌、车型、年款一行。NHTSA 召回按车型年款内去重，售后和车辆为模拟数据。

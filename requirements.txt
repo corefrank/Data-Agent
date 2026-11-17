@@ -1,0 +1,8 @@
+dlt[duckdb]==1.32.0
+duckdb==1.5.6
+psycopg[binary]==3.3.9
+requests>=2.32,<3
+python-dotenv>=1.1,<2
+pytest>=8,<10
+dbt-core==1.11.17
+dbt-duckdb==1.11.1
